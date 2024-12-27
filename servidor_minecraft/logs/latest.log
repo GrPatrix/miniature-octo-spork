@@ -269,3 +269,5 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [16:29:41] [Server thread/INFO]: luispro110224 was shot by Skeleton
 [16:29:48] [Server thread/INFO]: luispro110224 issued server command: /bavk
 [16:29:52] [Server thread/INFO]: luispro110224 issued server command: /back
+[16:37:44] [Server thread/INFO]: luispro110224 lost connection: Disconnected
+[16:37:44] [Server thread/INFO]: luispro110224 left the game
