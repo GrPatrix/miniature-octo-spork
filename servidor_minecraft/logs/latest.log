@@ -128,3 +128,8 @@
 [18:48:01] [Server thread/INFO]: [AngelChest] 
 [18:48:01] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
 [18:48:01] [Server thread/INFO]: [AngelChest] ========================================================
+[19:05:29] [User Authenticator #0/INFO]: UUID of player victorgsmer456 is d8b56b0e-1419-3d88-a051-90411393d4fe
+[19:05:31] [TAB Processing Thread/INFO]: [TAB] [WARN] Player victorgsmer456's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:05:31] [Server thread/INFO]: victorgsmer456 joined the game
+[19:05:31] [Server thread/INFO]: victorgsmer456[/127.203.233.46:60459] logged in with entity id 14 at ([world]-23.5, 72.0, -234.5)
+[19:07:30] [Server thread/INFO]: victorgsmer456 has made the advancement [Stone Age]
