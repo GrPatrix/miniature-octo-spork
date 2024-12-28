@@ -151,3 +151,9 @@
 [01:28:12] [Server thread/INFO]: Villager Villager['Villager'/6482, uuid='4eb36ab2-01f4-4f51-a069-ba85470f33b4', l='ServerLevel[world]', x=-466.50, y=64.56, z=-1257.07, cpos=[-30, -79], tl=80922, v=true] died, message: 'Villager was slain by Zombie'
 [01:37:16] [Server thread/INFO]: Alipsi issued server command: /tpa
 [01:43:29] [Server thread/INFO]: Alipsi has made the advancement [Ice Bucket Challenge]
+[02:03:59] [Server thread/INFO]: Alipsi lost connection: Timed out
+[02:03:59] [Server thread/INFO]: Alipsi left the game
+[02:04:00] [User Authenticator #1/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
+[02:04:01] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[02:04:01] [Server thread/INFO]: Alipsi joined the game
+[02:04:01] [Server thread/INFO]: Alipsi[/127.234.234.45:43793] logged in with entity id 19009 at ([world]-1038.39258646616, 72.0, -2100.699999988079)
