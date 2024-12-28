@@ -1,246 +1,135 @@
-[18:47:35] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[18:47:35] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[18:47:35] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[18:47:36] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
-[18:47:36] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+[00:04:53] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[00:04:53] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[00:04:54] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[00:04:54] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[00:04:54] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
  - AngelChest (13.9.0), AuraSkills (2.2.7), ClearLag (3.2.2), RHLeafDecay (1.21_R1), SimpleTpa (7.4), SkinsRestorer (15.5.1), TAB (5.0.3)
-[18:47:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:47:43] [ServerMain/INFO]: Loaded 1337 recipes
-[18:47:43] [ServerMain/INFO]: Loaded 1448 advancements
-[18:47:43] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[18:47:43] [Server thread/INFO]: Loading properties
-[18:47:43] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[18:47:45] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[18:47:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:47:45] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:47:46] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[18:47:46] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[18:47:46] [Server thread/INFO]: Default game type: SURVIVAL
-[18:47:46] [Server thread/INFO]: Generating keypair
-[18:47:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:47:47] [Server thread/INFO]: Using epoll channel type
-[18:47:47] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:47:47] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[18:47:47] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[18:47:47] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
-[18:47:48] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
-[18:47:48] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
-[18:47:48] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
-[18:47:48] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.2.7
-[18:47:48] [Server thread/INFO]: [RHLeafDecay] Loading server plugin RHLeafDecay v1.21_R1
-[18:47:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:47:48] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[18:47:49] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[18:47:49] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[18:47:50] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[18:47:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:47:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:47:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:47:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:47:50] [Server thread/INFO]: Preparing level "world"
-[18:47:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:47:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:47:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[18:47:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[18:47:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[18:47:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[18:47:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:47:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
-[18:47:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
-[18:47:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[18:47:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[18:47:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[18:47:50] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[18:47:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:47:51] [Server thread/INFO]: Preparing spawn area: 0%
-[18:47:51] [Server thread/INFO]: Preparing spawn area: 2%
-[18:47:51] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[18:47:52] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 432.1ms
-[18:47:52] [Server thread/INFO]: Preparing spawn area: 28%
-[18:47:52] [Server thread/INFO]: Preparing spawn area: 48%
-[18:47:52] [Server thread/INFO]: Time elapsed: 1934 ms
-[18:47:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:47:53] [Server thread/INFO]: Preparing spawn area: 0%
-[18:47:53] [Server thread/INFO]: Preparing spawn area: 91%
-[18:47:53] [Server thread/INFO]: Time elapsed: 513 ms
-[18:47:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:47:53] [Server thread/INFO]: Preparing spawn area: 0%
-[18:47:53] [Server thread/INFO]: Time elapsed: 359 ms
-[18:47:53] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
-[18:47:54] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
-[18:47:54] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
-[18:47:54] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
-[18:47:54] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
-[18:47:54] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
-[18:47:54] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
-[18:47:54] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
-[18:47:54] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
-[18:47:54] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
-[18:47:54] [Server thread/INFO]: [ClearLag] Loading modules...
-[18:47:54] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
-[18:47:54] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
-[18:47:54] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[18:47:54] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[18:47:54] [Thread-11/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
-[18:47:54] [Thread-11/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
-[18:47:54] [Thread-11/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
-[18:47:54] [Thread-11/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
-[18:47:54] [Thread-11/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
-[18:47:54] [Thread-11/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
-[18:47:54] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
-[18:47:54] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
-[18:47:54] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
-[18:47:55] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
-[18:47:55] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
-[18:47:55] [Server thread/INFO]: [TAB] Loaded NMS hook in 60ms
-[18:47:55] [Server thread/INFO]: [TAB] Enabled in 402ms
-[18:47:55] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.7
-[18:47:57] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
-[18:47:57] [Server thread/INFO]: [AuraSkills] Loaded 151 config options in 33 ms
-[18:47:57] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.3! Trying to find NMS support
-[18:47:57] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R2' loaded!
-[18:47:57] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
-[18:47:57] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
-[18:47:57] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
-[18:47:58] [Server thread/INFO]: [RHLeafDecay] Enabling RHLeafDecay v1.21_R1
-[18:47:58] [Server thread/INFO]: [RHLeafDecay] The plugin has been loaded!
-[18:47:58] [Server thread/INFO]: [RHLeafDecay] You are using version 1.21_R1 /w 💕 by X0R3
-[18:47:58] [Server thread/INFO]: [RHLeafDecay] Info:
-[18:47:58] [Server thread/INFO]: [RHLeafDecay] If you want your server be presented on the plugin page, then please contact me! :)
-[18:47:58] [Server thread/INFO]: [spark] Starting background profiler...
-[18:47:59] [Server thread/INFO]: Done preparing level "world" (8.723s)
-[18:47:59] [Server thread/INFO]: Running delayed init tasks
-[18:47:59] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 315 total sources
-[18:47:59] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
-[18:47:59] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
-[18:47:59] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
-[18:48:00] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:48:00] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
-[18:48:00] [Server thread/INFO]: Done (26.333s)! For help, type "help"
-[18:48:01] [Server thread/INFO]: [AngelChest] ========================================================
-[18:48:01] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
-[18:48:01] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
-[18:48:01] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
-[18:48:01] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
-[18:48:01] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
-[18:48:01] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
-[18:48:01] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
-[18:48:01] [Server thread/INFO]: [AngelChest] 
-[18:48:01] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
-[18:48:01] [Server thread/INFO]: [AngelChest] ========================================================
-[19:05:29] [User Authenticator #0/INFO]: UUID of player victorgsmer456 is d8b56b0e-1419-3d88-a051-90411393d4fe
-[19:05:31] [TAB Processing Thread/INFO]: [TAB] [WARN] Player victorgsmer456's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[19:05:31] [Server thread/INFO]: victorgsmer456 joined the game
-[19:05:31] [Server thread/INFO]: victorgsmer456[/127.203.233.46:60459] logged in with entity id 14 at ([world]-23.5, 72.0, -234.5)
-[19:07:30] [Server thread/INFO]: victorgsmer456 has made the advancement [Stone Age]
-[19:07:55] [Server thread/INFO]: victorgsmer456 has made the advancement [Getting an Upgrade]
-[19:09:32] [Server thread/INFO]: victorgsmer456 issued server command: /simpletpa:tpa victorgsmer456
-[19:12:31] [Server thread/INFO]: victorgsmer456 has made the advancement [Acquire Hardware]
-[19:12:57] [Server thread/INFO]: victorgsmer456 has made the advancement [Isn't It Iron Pick]
-[19:13:44] [Server thread/INFO]: victorgsmer456 has made the advancement [Monster Hunter]
-[19:15:29] [Server thread/INFO]: victorgsmer456 has made the advancement [Diamonds!]
-[19:17:31] [Server thread/INFO]: victorgsmer456 lost connection: Timed out
-[19:17:31] [Server thread/INFO]: victorgsmer456 left the game
-[19:18:52] [User Authenticator #1/INFO]: UUID of player victorgsmer456 is d8b56b0e-1419-3d88-a051-90411393d4fe
-[19:18:53] [TAB Processing Thread/INFO]: [TAB] [WARN] Player victorgsmer456's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[19:18:53] [Server thread/INFO]: victorgsmer456 joined the game
-[19:18:53] [Server thread/INFO]: victorgsmer456[/127.203.233.46:47065] logged in with entity id 1811 at ([world]-129.30000001192093, -9.6584000146389, -315.91615971312626)
-[19:26:41] [Server thread/INFO]: victorgsmer456 has made the advancement [Suit Up]
-[19:27:50] [Server thread/INFO]: victorgsmer456 has made the advancement [Sweet Dreams]
-[19:38:17] [Server thread/INFO]: victorgsmer456 has made the advancement [Ice Bucket Challenge]
-[19:39:14] [Server thread/INFO]: victorgsmer456 has made the advancement [We Need to Go Deeper]
-[19:42:33] [Server thread/INFO]: victorgsmer456 has made the advancement [Not Today, Thank You]
-[19:44:08] [User Authenticator #2/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
-[19:44:09] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[19:44:09] [Server thread/INFO]: GrPatrixYT joined the game
-[19:44:09] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:46943] logged in with entity id 7902 at ([world]-392.7874374961197, 71.0, -875.8244900856633)
-[19:44:18] [Async Chat Thread - #0/INFO]: [Not Secure] <victorgsmer456> hola crack
-[19:44:24] [Async Chat Thread - #0/INFO]: [Not Secure] <GrPatrixYT> buenas
-[19:45:09] [Async Chat Thread - #0/INFO]: [Not Secure] <victorgsmer456> tengo elitros quieres?
-[19:45:25] [Async Chat Thread - #0/INFO]: [Not Secure] <GrPatrixYT> ni cagando estoy viendo la consola .v
-[19:45:40] [Async Chat Thread - #0/INFO]: [Not Secure] <victorgsmer456> a
-[19:46:32] [Server thread/INFO]: GrPatrixYT issued server command: /tab group ADMIN
-[19:46:45] [Server thread/INFO]: GrPatrixYT issued server command: /tab groups
-[19:52:30] [Server thread/INFO]: GrPatrixYT has made the advancement [Diamonds!]
-[19:52:43] [Async Chat Thread - #2/INFO]: [Not Secure] <victorgsmer456> recien? xd
-[19:52:48] [Async Chat Thread - #2/INFO]: [Not Secure] <GrPatrixYT> no e jugado :v
-[19:53:07] [Server thread/INFO]: GrPatrixYT was slain by Zombie
-[19:53:11] [Server thread/INFO]: GrPatrixYT issued server command: /back
-[19:53:17] [Async Chat Thread - #2/INFO]: [Not Secure] <victorgsmer456> nooooo xDD
-[19:55:07] [Async Chat Thread - #4/INFO]: [Not Secure] <victorgsmer456> duerme loco
-[19:55:18] [Server thread/INFO]: GrPatrixYT has made the advancement [Sweet Dreams]
-[19:55:43] [Async Chat Thread - #4/INFO]: [Not Secure] <victorgsmer456> encontre un templo marino xd
-[20:01:15] [Server thread/INFO]: GrPatrixYT has made the advancement [Cover Me with Diamonds]
-[20:01:22] [Async Chat Thread - #6/INFO]: [Not Secure] <victorgsmer456> ashuuu
-[20:02:34] [Server thread/INFO]: GrPatrixYT has made the advancement [Ice Bucket Challenge]
-[20:04:34] [Server thread/INFO]: GrPatrixYT issued server command: /tpa victorgsmer456
-[20:04:34] [Server thread/ERROR]: Command exception: /tpa victorgsmer456
-org.bukkit.command.CommandException: Unhandled exception executing command 'tpa' in plugin SimpleTpa v7.4
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:355) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:342) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2241) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:154) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1577) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:207) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1547) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:138) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1498) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1508) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1344) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.api.ChatColor.Green
-	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
-	at net.md_5.bungee.api.ChatColor.valueOf(ChatColor.java:289) ~[bungeecord-chat-1.20-R0.2-deprecated+build.18.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.addButtonsMethod(SimpleTpaUtils.java:55) ~[SimpleTpa.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.sendRequest(SimpleTpaUtils.java:98) ~[SimpleTpa.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.commands.TpaCommand.onCommand(TpaCommand.java:125) ~[SimpleTpa.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	... 27 more
-[20:04:42] [Server thread/INFO]: GrPatrixYT issued server command: /tpa victorgsmer456
-[20:04:50] [Server thread/INFO]: victorgsmer456 issued server command: /tpaccept GrPatrixYT
-[20:04:59] [Async Chat Thread - #8/INFO]: [Not Secure] <victorgsmer456> a
-[20:04:59] [Async Chat Thread - #8/INFO]: [Not Secure] <GrPatrixYT> wenass
-[20:05:03] [Async Chat Thread - #8/INFO]: [Not Secure] <victorgsmer456> holas
-[20:05:46] [Async Chat Thread - #8/INFO]: [Not Secure] <victorgsmer456> tienes hilo??
-[20:05:56] [Async Chat Thread - #8/INFO]: [Not Secure] <GrPatrixYT> lo vote en la cueva :v
-[20:06:01] [Async Chat Thread - #8/INFO]: [Not Secure] <victorgsmer456> ._.
-[20:06:08] [Async Chat Thread - #8/INFO]: [Not Secure] <victorgsmer456> weno aca consigo
-[20:06:21] [Server thread/INFO]: GrPatrixYT has made the advancement [Fishy Business]
-[20:08:06] [Server thread/INFO]: GrPatrixYT has made the advancement [We Need to Go Deeper]
-[20:11:44] [Async Chat Thread - #10/INFO]: [Not Secure] <victorgsmer456> duermeeee
-[20:11:49] [Async Chat Thread - #10/INFO]: [Not Secure] <GrPatrixYT> to en el nether :V
-[20:12:04] [Async Chat Thread - #10/INFO]: [Not Secure] <victorgsmer456> a
-[20:15:37] [Async Chat Thread - #12/INFO]: [Not Secure] <victorgsmer456> encontre la wea de los chancos esos
-[20:17:47] [Server thread/INFO]: victorgsmer456 has made the advancement [Those Were the Days]
-[20:18:02] [Server thread/INFO]: GrPatrixYT issued server command: /tp victorgsmer456
-[20:18:02] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to victorgsmer456]
-[20:18:03] [Server thread/INFO]: GrPatrixYT has made the advancement [Those Were the Days]
-[20:18:04] [Server thread/INFO]: GrPatrixYT has made the advancement [War Pigs]
-[20:18:06] [Server thread/INFO]: victorgsmer456 has made the advancement [Hidden in the Depths]
-[20:18:10] [Async Chat Thread - #14/INFO]: [Not Secure] <GrPatrixYT> rapidazo xd
-[20:18:26] [Server thread/INFO]: victorgsmer456 has made the advancement [Ol' Betsy]
-[20:18:26] [Server thread/INFO]: victorgsmer456 has made the advancement [Take Aim]
-[20:18:43] [Async Chat Thread - #14/INFO]: [Not Secure] <GrPatrixYT> xd
-[20:19:34] [Async Chat Thread - #15/INFO]: [Not Secure] <GrPatrixYT> corre we
-[20:22:47] [Server thread/INFO]: victorgsmer456 lost connection: Disconnected
-[20:22:47] [Server thread/INFO]: victorgsmer456 left the game
-[20:23:33] [Server thread/INFO]: GrPatrixYT has made the advancement [Oh Shiny]
-[20:23:40] [Server thread/INFO]: GrPatrixYT has made the advancement [Who is Cutting Onions?]
-[20:24:35] [Server thread/INFO]: GrPatrixYT has made the advancement [Take Aim]
-[20:28:07] [Server thread/INFO]: GrPatrixYT has made the advancement [Not Quite "Nine" Lives]
+[00:05:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:05:03] [ServerMain/INFO]: Loaded 1337 recipes
+[00:05:03] [ServerMain/INFO]: Loaded 1448 advancements
+[00:05:03] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[00:05:03] [Server thread/INFO]: Loading properties
+[00:05:03] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[00:05:04] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[00:05:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:05:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:05:05] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[00:05:05] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[00:05:06] [Server thread/INFO]: Default game type: SURVIVAL
+[00:05:06] [Server thread/INFO]: Generating keypair
+[00:05:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:05:06] [Server thread/INFO]: Using epoll channel type
+[00:05:06] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[00:05:06] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[00:05:06] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[00:05:06] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
+[00:05:06] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[00:05:06] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
+[00:05:06] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[00:05:06] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.2.7
+[00:05:06] [Server thread/INFO]: [RHLeafDecay] Loading server plugin RHLeafDecay v1.21_R1
+[00:05:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:05:06] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[00:05:07] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[00:05:08] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[00:05:08] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[00:05:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:05:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:05:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:05:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:05:08] [Server thread/INFO]: Preparing level "world"
+[00:05:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:05:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:05:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[00:05:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[00:05:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[00:05:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[00:05:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:05:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[00:05:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[00:05:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[00:05:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[00:05:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[00:05:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[00:05:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:05:09] [Server thread/INFO]: Preparing spawn area: 0%
+[00:05:10] [Server thread/INFO]: Preparing spawn area: 2%
+[00:05:10] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[00:05:10] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 309.2ms
+[00:05:10] [Server thread/INFO]: Preparing spawn area: 2%
+[00:05:11] [Server thread/INFO]: Preparing spawn area: 48%
+[00:05:11] [Server thread/INFO]: Time elapsed: 1763 ms
+[00:05:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:05:11] [Server thread/INFO]: Preparing spawn area: 0%
+[00:05:11] [Server thread/INFO]: Preparing spawn area: 6%
+[00:05:12] [Server thread/INFO]: Time elapsed: 924 ms
+[00:05:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:05:12] [Server thread/INFO]: Preparing spawn area: 0%
+[00:05:12] [Server thread/INFO]: Preparing spawn area: 75%
+[00:05:12] [Server thread/INFO]: Time elapsed: 515 ms
+[00:05:12] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
+[00:05:13] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[00:05:13] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[00:05:13] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[00:05:13] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[00:05:13] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[00:05:13] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[00:05:13] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
+[00:05:13] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[00:05:13] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[00:05:13] [Server thread/INFO]: [ClearLag] Loading modules...
+[00:05:13] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[00:05:13] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[00:05:13] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[00:05:13] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[00:05:13] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[00:05:13] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[00:05:13] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[00:05:13] [Thread-11/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[00:05:13] [Thread-11/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[00:05:13] [Thread-11/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[00:05:13] [Thread-11/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[00:05:13] [Thread-11/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[00:05:13] [Thread-11/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[00:05:13] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[00:05:13] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[00:05:14] [Server thread/INFO]: [TAB] Loaded NMS hook in 59ms
+[00:05:14] [Server thread/INFO]: [TAB] Enabled in 448ms
+[00:05:14] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.7
+[00:05:15] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[00:05:16] [Server thread/INFO]: [AuraSkills] Loaded 151 config options in 32 ms
+[00:05:16] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.3! Trying to find NMS support
+[00:05:16] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R2' loaded!
+[00:05:16] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[00:05:16] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[00:05:16] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[00:05:17] [Server thread/INFO]: [RHLeafDecay] Enabling RHLeafDecay v1.21_R1
+[00:05:17] [Server thread/INFO]: [RHLeafDecay] The plugin has been loaded!
+[00:05:17] [Server thread/INFO]: [RHLeafDecay] You are using version 1.21_R1 /w 💕 by X0R3
+[00:05:17] [Server thread/INFO]: [RHLeafDecay] Info:
+[00:05:17] [Server thread/INFO]: [RHLeafDecay] If you want your server be presented on the plugin page, then please contact me! :)
+[00:05:17] [Server thread/INFO]: [spark] Starting background profiler...
+[00:05:17] [Server thread/INFO]: Done preparing level "world" (8.830s)
+[00:05:17] [Server thread/INFO]: Running delayed init tasks
+[00:05:18] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 315 total sources
+[00:05:18] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[00:05:18] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[00:05:18] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[00:05:19] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:05:19] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[00:05:19] [Server thread/INFO]: Done (26.408s)! For help, type "help"
+[00:05:20] [Server thread/INFO]: [AngelChest] ========================================================
+[00:05:20] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[00:05:20] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[00:05:20] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[00:05:20] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[00:05:20] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[00:05:20] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[00:05:20] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[00:05:20] [Server thread/INFO]: [AngelChest] 
+[00:05:20] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[00:05:20] [Server thread/INFO]: [AngelChest] ========================================================
+[00:05:24] [User Authenticator #0/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
+[00:05:26] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:05:26] [Server thread/INFO]: Alipsi joined the game
+[00:05:26] [Server thread/INFO]: Alipsi[/127.234.234.45:48437] logged in with entity id 14 at ([world]-274.69999998807907, 62.0, -1019.3000000119209)
