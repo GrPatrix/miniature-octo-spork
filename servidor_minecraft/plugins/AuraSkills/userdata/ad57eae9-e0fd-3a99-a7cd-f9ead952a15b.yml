@@ -5,13 +5,13 @@ skills:
     xp: 15.0
   auraskills/enchanting:
     level: 2
-    xp: 210.0
+    xp: 276.0
   auraskills/mining:
     level: 5
-    xp: 76.51000000000326
+    xp: 115.89000000000308
   auraskills/excavation:
     level: 2
-    xp: 299.6800000000003
+    xp: 350.17000000000075
   auraskills/fighting:
     level: 8
     xp: 6103.4999999999945
@@ -23,7 +23,7 @@ skills:
     xp: 505.2400000000003
   auraskills/agility:
     level: 4
-    xp: 1617.8516000000002
+    xp: 1688.1338
   auraskills/archery:
     level: 2
     xp: 119.70000000000002
@@ -55,8 +55,6 @@ trait_modifiers:
     value: 5.0
 ability_data:
   auraskills/xp_convert:
-    xp: 9.262999999999728
+    xp: 25.415199999999587
   auraskills/first_strike:
     counter: 38
-  auraskills/lightning_blade:
-    cooldown: 2720
