@@ -553,3 +553,137 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [04:24:48] [Server thread/INFO]: luispro110224 issued server command: /back
 [04:27:32] [Server thread/WARN]: Alipsi moved too quickly! -10.989781957107041,1.0754440651894868,4.440899010989142
 [04:28:07] [Async Chat Thread - #27/INFO]: [Not Secure] <Alipsi> joder
+[04:28:18] [Async Chat Thread - #27/INFO]: [Not Secure] <Alipsi> una bastion y ni una zeta
+[04:29:10] [Server thread/INFO]: GrPatrixYT issued server command: /tpa Alipsi
+[04:29:10] [Server thread/ERROR]: Command exception: /tpa Alipsi
+org.bukkit.command.CommandException: Unhandled exception executing command 'tpa' in plugin SimpleTpa v7.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:355) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:342) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2241) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:154) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1577) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:207) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1547) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:117) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1504) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1344) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.api.ChatColor.Green
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
+	at net.md_5.bungee.api.ChatColor.valueOf(ChatColor.java:289) ~[bungeecord-chat-1.20-R0.2-deprecated+build.18.jar:?]
+	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.addButtonsMethod(SimpleTpaUtils.java:55) ~[SimpleTpa.jar:?]
+	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.sendRequest(SimpleTpaUtils.java:98) ~[SimpleTpa.jar:?]
+	at SimpleTpa.jar/me.mulemuledupe.simpletpa.commands.TpaCommand.onCommand(TpaCommand.java:125) ~[SimpleTpa.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	... 26 more
+[04:29:10] [Server thread/INFO]: Alipsi has made the advancement [Those Were the Days]
+[04:29:15] [Server thread/INFO]: GrPatrixYT issued server command: /tpa Alipsi
+[04:29:30] [Server thread/INFO]: Alipsi issued server command: /tpaccept
+[04:29:46] [Async Chat Thread - #29/INFO]: [Not Secure] <GrPatrixYT> oe
+[04:29:51] [Async Chat Thread - #29/INFO]: [Not Secure] <GrPatrixYT> no le pegues a arriane
+[04:29:56] [Async Chat Thread - #29/INFO]: [Not Secure] <Alipsi> XDDDDDDDDDDDDDDDDDDDD
+[04:30:24] [Async Chat Thread - #29/INFO]: [Not Secure] <GrPatrixYT> pndj xd
+[04:30:25] [Server thread/INFO]: Alipsi has made the advancement [War Pigs]
+[04:30:29] [Server thread/INFO]: Alipsi has made the advancement [Who is Cutting Onions?]
+[04:30:47] [Async Chat Thread - #29/INFO]: [Not Secure] <Alipsi> wase
+[04:30:49] [Async Chat Thread - #29/INFO]: [Not Secure] <Alipsi> ancient
+[04:31:08] [Async Chat Thread - #29/INFO]: [Not Secure] <GrPatrixYT> cerdo de mrd casi me tira a la lava
+[04:31:13] [Server thread/INFO]: luispro110224 was doomed to fall by Skeleton
+[04:31:18] [Server thread/INFO]: luispro110224 issued server command: /back
+[04:31:48] [Server thread/INFO]: Alipsi has made the advancement [Ol' Betsy]
+[04:32:07] [Server thread/INFO]: GrPatrixYT has made the advancement [Hidden in the Depths]
+[04:32:54] [Server thread/INFO]: Alipsi tried to swim in lava
+[04:32:59] [Async Chat Thread - #31/INFO]: [Not Secure] <Alipsi> arianne de mierda
+[04:33:02] [Async Chat Thread - #31/INFO]: [Not Secure] <Alipsi> me tiro a la lava
+[04:33:05] [Server thread/INFO]: Alipsi issued server command: /back
+[04:33:14] [Server thread/INFO]: Alipsi tried to swim in lava
+[04:33:20] [Server thread/INFO]: Alipsi issued server command: /tpa Gr
+[04:33:20] [Server thread/ERROR]: Command exception: /tpa Gr
+org.bukkit.command.CommandException: Unhandled exception executing command 'tpa' in plugin SimpleTpa v7.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:355) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:342) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2241) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:154) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1577) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:207) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1547) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:117) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1504) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1344) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.api.ChatColor.Green
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
+	at net.md_5.bungee.api.ChatColor.valueOf(ChatColor.java:289) ~[bungeecord-chat-1.20-R0.2-deprecated+build.18.jar:?]
+	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.addButtonsMethod(SimpleTpaUtils.java:55) ~[SimpleTpa.jar:?]
+	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.sendRequest(SimpleTpaUtils.java:98) ~[SimpleTpa.jar:?]
+	at SimpleTpa.jar/me.mulemuledupe.simpletpa.commands.TpaCommand.onCommand(TpaCommand.java:125) ~[SimpleTpa.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	... 26 more
+[04:33:29] [Server thread/INFO]: GrPatrixYT issued server command: /tpaccept
+[04:33:52] [Async Chat Thread - #31/INFO]: [Not Secure] <GrPatrixYT> negro
+[04:33:54] [Async Chat Thread - #31/INFO]: [Not Secure] <GrPatrixYT> xd
+[04:33:57] [Async Chat Thread - #31/INFO]: [Not Secure] <GrPatrixYT> encontre el hongo
+[04:34:11] [Server thread/INFO]: Alipsi tried to swim in lava to escape Piglin
+[04:34:17] [Async Chat Thread - #32/INFO]: [Not Secure] <Alipsi> nooo
+[04:34:19] [Async Chat Thread - #32/INFO]: [Not Secure] <Alipsi> lptm
+[04:34:27] [Async Chat Thread - #31/INFO]: [Not Secure] <Alipsi> desaparecio mi angel
+[04:34:30] [Server thread/INFO]: Alipsi issued server command: /back
+[04:34:51] [Async Chat Thread - #31/INFO]: [Not Secure] <Alipsi> epa
+[04:34:53] [Async Chat Thread - #31/INFO]: [Not Secure] <Alipsi> se acumulan
+[04:35:22] [Server thread/INFO]: luispro110224 has made the advancement [Diamonds!]
+[04:35:24] [Async Chat Thread - #31/INFO]: [Not Secure] <Alipsi> pasa hongo pi
+[04:35:42] [Async Chat Thread - #31/INFO]: [Not Secure] <GrPatrixYT> toma
+[04:36:13] [Async Chat Thread - #31/INFO]: [Not Secure] <GrPatrixYT> hay lo deje
+[04:36:20] [Async Chat Thread - #31/INFO]: [Not Secure] <Alipsi> garsias
+[04:36:26] [Async Chat Thread - #31/INFO]: [Not Secure] <GrPatrixYT> guardame esto
+[04:36:59] [Async Chat Thread - #31/INFO]: [Not Secure] <Alipsi> ahora como vuelvo ajskd
+[04:37:05] [Async Chat Thread - #31/INFO]: [Not Secure] <GrPatrixYT> luis p
+[04:37:20] [Async Chat Thread - #31/INFO]: [Not Secure] <Alipsi> donde estara
+[04:37:41] [Async Chat Thread - #31/INFO]: [Not Secure] <GrPatrixYT> tmr :'v
+[04:37:47] [Async Chat Thread - #31/INFO]: [Not Secure] <GrPatrixYT> me asuste y les pegue xd
+[04:37:49] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[04:37:49] [Server thread/INFO]: GrPatrixYT left the game
+[04:37:52] [User Authenticator #8/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[04:37:53] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:37:53] [Server thread/INFO]: GrPatrixYT joined the game
+[04:37:53] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:56517] logged in with entity id 59112 at ([world_nether]-50.577608373585846, 59.0, -809.3997435697371)
+[04:37:53] [Async Chat Thread - #31/INFO]: [Not Secure] <Alipsi> XD
+[04:37:56] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[04:37:56] [Server thread/INFO]: GrPatrixYT left the game
+[04:38:02] [User Authenticator #8/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[04:38:03] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:38:03] [Server thread/INFO]: GrPatrixYT joined the game
+[04:38:03] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:54743] logged in with entity id 59152 at ([world_nether]-50.577608373585846, 59.0, -809.3997435697371)
+[04:38:26] [Server thread/INFO]: luispro110224 burned to death
