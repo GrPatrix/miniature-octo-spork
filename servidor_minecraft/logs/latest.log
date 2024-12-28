@@ -143,3 +143,9 @@
 [00:56:29] [Server thread/INFO]: Alipsi issued server command: /back
 [01:00:29] [Server thread/INFO]: Alipsi has made the advancement [What a Deal!]
 [01:21:46] [Server thread/INFO]: Villager Villager['Fletcher'/6480, uuid='56e3c813-a3c3-44db-9e3a-144fd0732994', l='ServerLevel[world]', x=-465.70, y=64.56, z=-1257.74, cpos=[-30, -79], tl=73359, v=true] died, message: 'Fletcher was burned to a crisp while fighting Zombie'
+[01:27:47] [Server thread/INFO]: Villager Villager['Villager'/6484, uuid='5c8ef576-51f7-4cbf-9580-08b13b588e1e', l='ServerLevel[world]', x=-464.44, y=64.00, z=-1254.42, cpos=[-30, -79], tl=89814, v=true] died, message: 'Villager was slain by Zombie'
+[01:27:54] [Server thread/INFO]: Villager Villager['Villager'/6486, uuid='37acdec9-a445-4273-886d-d363a35da1a5', l='ServerLevel[world]', x=-464.77, y=65.00, z=-1259.57, cpos=[-30, -79], tl=80612, v=true] died, message: 'Villager was slain by Zombie Villager'
+[01:28:03] [Server thread/INFO]: Villager Villager['Fletcher'/6485, uuid='abf14696-34e0-46bd-8aa7-39bc70538c97', l='ServerLevel[world]', x=-466.35, y=64.56, z=-1259.36, cpos=[-30, -79], tl=80649, v=true] died, message: 'Fletcher was slain by Zombie Villager'
+[01:28:08] [Server thread/INFO]: Villager Villager['Villager'/6481, uuid='04d632cd-4440-4d72-b4b0-5527c3076b35', l='ServerLevel[world]', x=-466.54, y=64.56, z=-1257.81, cpos=[-30, -79], tl=90465, v=true] died, message: 'Villager was slain by Zombie Villager'
+[01:28:11] [Server thread/INFO]: Villager Villager['Toolsmith'/6483, uuid='a726274d-9333-4aba-b26e-26244e4dbcc3', l='ServerLevel[world]', x=-466.70, y=64.56, z=-1259.70, cpos=[-30, -79], tl=80704, v=true] died, message: 'Toolsmith was slain by Zombie Villager'
+[01:28:12] [Server thread/INFO]: Villager Villager['Villager'/6482, uuid='4eb36ab2-01f4-4f51-a069-ba85470f33b4', l='ServerLevel[world]', x=-466.50, y=64.56, z=-1257.07, cpos=[-30, -79], tl=80922, v=true] died, message: 'Villager was slain by Zombie'
