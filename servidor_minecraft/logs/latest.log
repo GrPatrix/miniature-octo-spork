@@ -1039,3 +1039,5 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [05:37:59] [Async Chat Thread - #69/INFO]: [Not Secure] <luispro110224> ya listo
 [05:38:01] [Server thread/INFO]: luispro110224 lost connection: Disconnected
 [05:38:01] [Server thread/INFO]: luispro110224 left the game
+[05:42:51] [Server thread/INFO]: Alipsi has made the advancement [Local Brewery]
+[05:49:40] [Server thread/INFO]: Villager Villager['Armorer'/76141, uuid='dc1ace95-a206-44df-b83d-5f85541d9653', l='ServerLevel[world]', x=-1019.70, y=82.26, z=-2132.49, cpos=[-64, -134], tl=199372, v=true] died, message: 'Armorer was slain by Zombie'
