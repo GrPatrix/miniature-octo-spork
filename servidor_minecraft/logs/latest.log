@@ -681,3 +681,18 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [19:19:33] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
 [19:19:33] [Server thread/INFO]: GrPatrixYT left the game
 [19:24:34] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[19:24:52] [Server thread/INFO]: luispro110224 lost connection: Timed out
+[19:24:52] [Server thread/INFO]: luispro110224 left the game
+[19:25:04] [User Authenticator #6/INFO]: UUID of player luispro110224 is 78b4080c-845d-323f-8618-f1d0e4fe510a
+[19:25:05] [TAB Processing Thread/INFO]: [TAB] [WARN] Player luispro110224's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[19:25:05] [Server thread/INFO]: luispro110224 joined the game
+[19:25:05] [Server thread/INFO]: luispro110224[/127.104.189.111:59025] logged in with entity id 50855 at ([world]-1095.4990597381773, 81.0, -2126.5857178483298)
+[19:26:20] [Server thread/INFO]: SANS1237843 issued server command: /back
+[19:26:31] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[19:26:34] [Server thread/INFO]: luispro110224 issued server command: /tpaccept
+[19:37:40] [Server thread/INFO]: Alipsi issued server command: /skills
+[19:37:45] [Server thread/INFO]: SANS1237843 issued server command: /skill
+[19:37:57] [Server thread/INFO]: Alipsi issued server command: /skills
+[19:43:03] [Server thread/WARN]: SANS1237843 moved too quickly! -7.95112982963883,-5.506091727193137,-3.7852303231034057
+[19:46:31] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[19:48:19] [Server thread/INFO]: SANS1237843 has made the advancement [We Need to Go Deeper]
