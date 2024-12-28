@@ -172,3 +172,5 @@
 [02:43:48] [Server thread/INFO]: Alipsi issued server command: /back
 [02:53:08] [Server thread/INFO]: Alipsi has made the advancement [Hot Stuff]
 [02:53:11] [Server thread/INFO]: Alipsi issued server command: /back
+[02:59:13] [Server thread/INFO]: Villager Villager['Fletcher'/26064, uuid='5f82b6a7-b6d1-45a3-ae82-f2f9ba3f4865', l='ServerLevel[world]', x=-1074.55, y=70.32, z=-2151.29, cpos=[-68, -135], tl=78683, v=true] died, message: 'Fletcher tried to swim in lava'
+[03:01:02] [Server thread/INFO]: Villager Villager['Fletcher'/26051, uuid='b2bdaf89-096f-4a09-8e16-71563ee2647d', l='ServerLevel[world]', x=-1075.30, y=70.26, z=-2150.77, cpos=[-68, -135], tl=80537, v=true] died, message: 'Fletcher tried to swim in lava'
