@@ -183,3 +183,19 @@
 [03:13:57] [Server thread/INFO]: Villager Villager['Nitwit'/26063, uuid='575e00a5-3355-475f-a167-cb48862ab808', l='ServerLevel[world]', x=-1018.70, y=81.63, z=-2131.91, cpos=[-64, -134], tl=96122, v=true] died, message: 'Nitwit was slain by Zombie'
 [03:14:21] [Server thread/INFO]: GrPatrixYT has made the advancement [A Terrible Fortress]
 [03:14:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Alipsi> goend
+[03:17:57] [Server thread/INFO]: GrPatrixYT has made the advancement [Into Fire]
+[03:22:38] [Server thread/INFO]: Alipsi was slain by Iron Golem
+[03:22:43] [Server thread/INFO]: Alipsi issued server command: /back
+[03:22:47] [Async Chat Thread - #1/INFO]: [Not Secure] <Alipsi> potente
+[03:22:49] [Async Chat Thread - #1/INFO]: [Not Secure] <GrPatrixYT> por nuv
+[03:23:07] [Async Chat Thread - #1/INFO]: [Not Secure] <Alipsi> me mato de un hit
+[03:23:08] [Async Chat Thread - #1/INFO]: [Not Secure] <Alipsi> JDKASJDK
+[03:23:11] [Async Chat Thread - #1/INFO]: [Not Secure] <GrPatrixYT> xd
+[03:23:20] [Async Chat Thread - #1/INFO]: [Not Secure] <GrPatrixYT> no aguanta nd la generacion de ahora :'v
+[03:23:35] [Async Chat Thread - #1/INFO]: [Not Secure] <Alipsi> a pero ponganle alturas
+[03:26:33] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[03:26:33] [Server thread/INFO]: GrPatrixYT left the game
+[03:26:36] [User Authenticator #5/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[03:26:38] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:26:38] [Server thread/INFO]: GrPatrixYT joined the game
+[03:26:38] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:54833] logged in with entity id 33002 at ([world_nether]133.30000001192093, 64.06915845185893, -563.2225581111041)
