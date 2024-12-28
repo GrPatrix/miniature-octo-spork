@@ -1073,3 +1073,10 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [21:41:46] [Server thread/INFO]: SANS1237843 was slain by Iron Golem
 [21:45:39] [Server thread/INFO]: Alipsi issued server command: /back
 [21:46:31] [Server thread/WARN]: Alipsi moved too quickly! 7.029503788633065,-8.87748047429504,-5.810823268626336
+[21:53:10] [Server thread/INFO]: Alipsi lost connection: Timed out
+[21:53:10] [Server thread/INFO]: Alipsi left the game
+[21:53:45] [Server thread/INFO]: luispro110224 has made the advancement [Who is Cutting Onions?]
+[21:54:17] [User Authenticator #13/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
+[21:54:18] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:54:18] [Server thread/INFO]: Alipsi joined the game
+[21:54:18] [Server thread/INFO]: Alipsi[/127.234.234.45:41699] logged in with entity id 99864 at ([world]-966.2525988518562, 70.0, -2510.3372245169394)
