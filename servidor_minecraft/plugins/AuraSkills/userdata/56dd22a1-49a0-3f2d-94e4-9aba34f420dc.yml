@@ -20,10 +20,10 @@ skills:
     xp: 0.0
   auraskills/agility:
     level: 4
-    xp: 359.9829999999999
+    xp: 487.5811999999999
   auraskills/foraging:
     level: 5
-    xp: 322.15999999999497
+    xp: 2083.9199999999905
   auraskills/excavation:
     level: 1
     xp: 34.100000000000065
@@ -36,6 +36,11 @@ skills:
 mana: 24.0
 action_bar:
   idle: true
+stat_modifiers:
+  '0':
+    name: foraging-valor
+    stat: auraskills/strength
+    value: 1.0
 trait_modifiers:
   '0':
     name: mining_luck_ability
