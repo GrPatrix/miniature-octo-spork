@@ -8,13 +8,13 @@ skills:
     xp: 0.0
   auraskills/mining:
     level: 4
-    xp: 1047.3200000000159
+    xp: 1049.5200000000157
   auraskills/excavation:
     level: 0
     xp: 55.19999999999996
   auraskills/fighting:
-    level: 5
-    xp: 83.1000000000035
+    level: 7
+    xp: 1509.5000000000045
   auraskills/farming:
     level: 0
     xp: 69.90000000000002
@@ -23,24 +23,19 @@ skills:
     xp: 19.47999999999984
   auraskills/agility:
     level: 4
-    xp: 327.9333999999998
+    xp: 455.8845999999998
   auraskills/archery:
     level: 2
     xp: 112.00000000000001
   auraskills/defense:
     level: 4
-    xp: 1373.76500072479
+    xp: 1452.9650007247903
   auraskills/alchemy:
     level: 0
     xp: 60.0
 mana: 24.0
 action_bar:
   idle: true
-stat_modifiers:
-  '0':
-    name: mining-stamina
-    stat: auraskills/toughness
-    value: 1.0
 trait_modifiers:
   '0':
     name: mining_luck_ability
@@ -56,4 +51,4 @@ trait_modifiers:
     value: 5.0
 ability_data:
   auraskills/first_strike:
-    counter: 20
+    counter: 21
