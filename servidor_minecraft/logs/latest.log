@@ -131,3 +131,11 @@
 [16:48:23] [Server thread/INFO]: Alipsi joined the game
 [16:48:23] [Server thread/INFO]: Alipsi[/127.234.234.45:44803] logged in with entity id 51 at ([world]-1063.5, 74.0, -2131.5)
 [16:49:13] [Server thread/INFO]: Alipsi was slain by Zombie
+[17:03:13] [Server thread/INFO]: Villager Villager['Toolsmith'/84, uuid='51809459-acee-49df-876d-b3225ce44b06', l='ServerLevel[world]', x=-1088.81, y=72.25, z=-2080.70, cpos=[-69, -131], tl=261947, v=true] died, message: 'Toolsmith was slain by Zombie'
+[17:05:56] [User Authenticator #1/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[17:05:58] [Server thread/INFO]: GrPatrixYT joined the game
+[17:05:58] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[17:05:58] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:49655] logged in with entity id 2520 at ([world]-1066.5097067187887, 74.0, -2130.53505900528)
+[17:06:31] [Async Chat Thread - #0/INFO]: [Not Secure] <Alipsi> se volvio a dañar la vaina esa
+[17:06:49] [Async Chat Thread - #0/INFO]: [Not Secure] <GrPatrixYT> ni modo
+[17:07:59] [Server thread/INFO]: Alipsi has made the advancement [A Seedy Place]
