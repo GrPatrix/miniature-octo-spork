@@ -460,3 +460,21 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [18:32:39] [Server thread/INFO]: GrPatrixYT has reached the goal [Sky's the Limit]
 [18:33:02] [Server thread/INFO]: GrPatrixYT has made the advancement [Local Brewery]
 [18:33:17] [Server thread/INFO]: SANS1237843 has made the advancement [Monster Hunter]
+[18:36:34] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
+[18:36:34] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
+[18:36:45] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
+[18:36:45] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
+[18:36:52] [Server thread/INFO]: Alipsi has reached the goal [Sky's the Limit]
+[18:36:57] [Server thread/INFO]: GrPatrixYT issued server command: /tp SANS1237843
+[18:36:57] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to SANS1237843]
+[18:38:43] [Server thread/INFO]: luispro110224 was doomed to fall by Zombie
+[18:38:50] [Server thread/INFO]: luispro110224 issued server command: /back
+[18:41:12] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[18:41:15] [Server thread/INFO]: SANS1237843 has made the advancement [The End?]
+[18:41:15] [Server thread/INFO]: SANS1237843 has made the advancement [The City at the End of the Game]
+[18:41:45] [Server thread/INFO]: SANS1237843 has made the advancement [Suit Up]
+[18:41:47] [Server thread/INFO]: SANS1237843 has made the advancement [Acquire Hardware]
+[18:41:55] [Server thread/INFO]: GrPatrixYT issued server command: /tpa Alipsi
+[18:42:01] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
+[18:42:01] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
+[18:42:48] [Server thread/WARN]: GrPatrixYT moved too quickly! 5.944346633512396,-6.476851469897149,-7.745233518112855
