@@ -1365,3 +1365,14 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [22:46:39] [Server thread/INFO]: Alipsi issued server command: /tpa s
 [22:46:50] [Server thread/INFO]: Alipsi issued server command: /tpa s
 [22:46:57] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[23:09:06] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[23:15:30] [User Authenticator #15/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[23:15:31] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:15:31] [Server thread/INFO]: GrPatrixYT joined the game
+[23:15:31] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:34983] logged in with entity id 121949 at ([world]-822.6410760621669, 64.0, -1748.5371827194022)
+[23:15:37] [Async Chat Thread - #16/INFO]: [Not Secure] <GrPatrixYT> buenos dias gente
+[23:17:33] [Async Chat Thread - #18/INFO]: [Not Secure] <SANS1237843> PATRICK
+[23:17:43] [Async Chat Thread - #18/INFO]: [Not Secure] <GrPatrixYT> e
+[23:17:47] [Async Chat Thread - #18/INFO]: [Not Secure] <SANS1237843> VEN A LA LLAMADA
+[23:18:17] [Async Chat Thread - #18/INFO]: [Not Secure] <GrPatrixYT> ando escuchando musica chupapi
+[23:18:22] [Async Chat Thread - #18/INFO]: [Not Secure] <GrPatrixYT> pero q hay de nuevo
