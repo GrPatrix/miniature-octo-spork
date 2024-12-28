@@ -1382,3 +1382,29 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [23:21:40] [Server thread/INFO]: GrPatrixYT left the game
 [23:22:49] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
 [23:24:17] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[23:29:15] [User Authenticator #16/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[23:29:16] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:29:16] [Server thread/INFO]: GrPatrixYT joined the game
+[23:29:16] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:45323] logged in with entity id 126331 at ([world]-824.6999999880791, 64.0, -1748.2476100676338)
+[23:29:18] [Server thread/INFO]: luispro110224 has reached the goal [You Need a Mint]
+[23:29:45] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[23:30:26] [Server thread/INFO]: SANS1237843 fell from a high place
+[23:30:33] [Server thread/INFO]: SANS1237843 issued server command: /back
+[23:30:37] [Server thread/INFO]: [AngelChest] SANS1237843 opened the AngelChest of SANS1237843 at Location{world=CraftWorld{name=world},x=-964.0,y=3.0,z=-2177.0,pitch=0.0,yaw=0.0}
+[23:30:41] [Server thread/INFO]: [AngelChest] SANS1237843 opened the AngelChest of SANS1237843 at Location{world=CraftWorld{name=world},x=-964.0,y=3.0,z=-2177.0,pitch=0.0,yaw=0.0}
+[23:30:56] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[23:31:38] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[23:31:38] [Server thread/INFO]: GrPatrixYT left the game
+[23:31:41] [User Authenticator #17/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[23:31:42] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:31:42] [Server thread/INFO]: GrPatrixYT joined the game
+[23:31:42] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:38713] logged in with entity id 127836 at ([world]-666.1478902769347, 63.0, -1807.9566160594893)
+[23:33:09] [Server thread/WARN]: Alipsi moved too quickly! 4.472323673559117,-8.962548034051663,2.6055834627482
+[23:36:03] [Server thread/INFO]: SANS1237843 fell from a high place
+[23:36:06] [Server thread/INFO]: SANS1237843 issued server command: /back
+[23:38:37] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[23:38:37] [Server thread/INFO]: GrPatrixYT left the game
+[23:38:40] [User Authenticator #18/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[23:38:41] [Server thread/INFO]: GrPatrixYT joined the game
+[23:38:41] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:38:41] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:48479] logged in with entity id 132034 at ([world]-758.0244374174181, 66.0, -1828.3909649509776)
