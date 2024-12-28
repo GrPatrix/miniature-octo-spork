@@ -1044,3 +1044,20 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [05:54:57] [Server thread/INFO]: Alipsi has reached the goal [Zombie Doctor]
 [05:56:50] [Server thread/INFO]: GrPatrixYT has completed the challenge [Return to Sender]
 [05:59:25] [Server thread/INFO]: Alipsi has made the advancement [Cover Me with Diamonds]
+[06:01:02] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[06:01:02] [Server thread/INFO]: GrPatrixYT left the game
+[06:01:06] [User Authenticator #11/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[06:01:07] [Server thread/INFO]: GrPatrixYT joined the game
+[06:01:07] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[06:01:07] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:43967] logged in with entity id 85269 at ([world_nether]-1038.5764690432227, 45.0, -1809.309351823854)
+[06:07:53] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
+[06:07:53] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
+[06:07:58] [Async Chat Thread - #71/INFO]: [Not Secure] <GrPatrixYT> xd
+[06:08:05] [Async Chat Thread - #71/INFO]: [Not Secure] <GrPatrixYT> necesito nueva armadura :v
+[06:08:18] [Async Chat Thread - #71/INFO]: [Not Secure] <Alipsi> mi herrero vende a 1 esmeralda
+[06:08:20] [Async Chat Thread - #71/INFO]: [Not Secure] <Alipsi> XD
+[06:08:26] [Async Chat Thread - #71/INFO]: [Not Secure] <GrPatrixYT> voi
+[06:08:51] [Async Chat Thread - #71/INFO]: [Not Secure] <GrPatrixYT> comprame p
+[06:08:56] [Async Chat Thread - #71/INFO]: [Not Secure] <GrPatrixYT> me olvide xd
+[06:09:35] [Async Chat Thread - #71/INFO]: [Not Secure] <Alipsi> voy
+[06:09:40] [Async Chat Thread - #72/INFO]: [Not Secure] <Alipsi> estaba jugando bodrio stars
