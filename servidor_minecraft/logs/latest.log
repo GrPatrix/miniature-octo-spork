@@ -931,3 +931,59 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [20:33:57] [Server thread/INFO]: luispro110224 issued server command: /back
 [20:34:01] [Server thread/INFO]: GrPatrixYT issued server command: /tpaccept
 [20:34:18] [Async Chat Thread - #14/INFO]: [Not Secure] <SANS1237843> -248 31 -129
+[20:35:53] [Server thread/INFO]: SANS1237843 lost connection: Disconnected
+[20:35:53] [Server thread/INFO]: SANS1237843 left the game
+[20:36:01] [User Authenticator #11/INFO]: UUID of player SANS1237843 is 62fed0e1-ff38-36a6-8695-7c50b7f30215
+[20:36:02] [TAB Processing Thread/INFO]: [TAB] [WARN] Player SANS1237843's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[20:36:02] [Server thread/INFO]: SANS1237843 joined the game
+[20:36:02] [Server thread/INFO]: SANS1237843[/127.72.228.58:46263] logged in with entity id 72704 at ([world_nether]-258.02073538568055, 42.0, -130.05543640501043)
+[20:36:16] [Server thread/INFO]: SANS1237843 issued server command: /back
+[20:36:31] [Server thread/INFO]: SANS1237843 issued server command: /tpa luispro110224
+[20:36:31] [Server thread/ERROR]: Command exception: /tpa luispro110224
+org.bukkit.command.CommandException: Unhandled exception executing command 'tpa' in plugin SimpleTpa v7.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:355) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:342) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2241) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:154) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1577) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:207) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1547) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.runAllTasks(BlockableEventLoop.java:117) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1504) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1344) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.api.ChatColor.Green
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
+	at net.md_5.bungee.api.ChatColor.valueOf(ChatColor.java:289) ~[bungeecord-chat-1.20-R0.2-deprecated+build.18.jar:?]
+	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.addButtonsMethod(SimpleTpaUtils.java:55) ~[SimpleTpa.jar:?]
+	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.sendRequest(SimpleTpaUtils.java:98) ~[SimpleTpa.jar:?]
+	at SimpleTpa.jar/me.mulemuledupe.simpletpa.commands.TpaCommand.onCommand(TpaCommand.java:125) ~[SimpleTpa.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	... 26 more
+[20:36:37] [Server thread/INFO]: luispro110224 issued server command: /tpaccept
+[20:36:42] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode spectator
+[20:36:42] [Server thread/INFO]: [GrPatrixYT: Set own game mode to Spectator Mode]
+[20:37:03] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
+[20:37:03] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
+[20:37:06] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[20:37:11] [Server thread/INFO]: [AngelChest] SANS1237843 opened the AngelChest of SANS1237843 at Location{world=CraftWorld{name=world},x=-1060.0,y=63.0,z=-2177.0,pitch=0.0,yaw=0.0}
+[20:37:11] [Server thread/INFO]: GrPatrixYT issued server command: /gamemode survival
+[20:37:11] [Server thread/INFO]: [GrPatrixYT: Set own game mode to Survival Mode]
+[20:37:36] [Server thread/INFO]: [AngelChest] SANS1237843 opened the AngelChest of SANS1237843 at Location{world=CraftWorld{name=world},x=-1060.0,y=63.0,z=-2177.0,pitch=0.0,yaw=0.0}
+[20:37:53] [Server thread/INFO]: [AngelChest] SANS1237843 opened the AngelChest of SANS1237843 at Location{world=CraftWorld{name=world},x=-1060.0,y=63.0,z=-2177.0,pitch=0.0,yaw=0.0}
