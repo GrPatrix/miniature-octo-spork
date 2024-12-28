@@ -1354,3 +1354,14 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [22:34:25] [Server thread/INFO]: Alipsi issued server command: /back
 [22:34:38] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
 [22:34:56] [Server thread/INFO]: luispro110224 issued server command: /tpa alipsi
+[22:38:07] [Server thread/INFO]: Alipsi burned to death
+[22:38:28] [Server thread/INFO]: SANS1237843 was blown up by Creeper
+[22:38:33] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[22:38:41] [Server thread/INFO]: SANS1237843 has made the advancement [Who is Cutting Onions?]
+[22:38:42] [Server thread/INFO]: SANS1237843 has reached the goal [You Need a Mint]
+[22:39:30] [Server thread/INFO]: [AngelChest] SANS1237843 opened the AngelChest of SANS1237843 at Location{world=CraftWorld{name=world},x=-1063.0,y=74.0,z=-2132.0,pitch=0.0,yaw=0.0}
+[22:39:31] [Server thread/INFO]: [AngelChest] SANS1237843 opened the AngelChest of SANS1237843 at Location{world=CraftWorld{name=world},x=-1063.0,y=74.0,z=-2132.0,pitch=0.0,yaw=0.0}
+[22:39:36] [Server thread/INFO]: [AngelChest] SANS1237843 opened the AngelChest of SANS1237843 at Location{world=CraftWorld{name=world},x=-1063.0,y=74.0,z=-2132.0,pitch=0.0,yaw=0.0}
+[22:46:39] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[22:46:50] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[22:46:57] [Server thread/INFO]: Alipsi issued server command: /tpa s
