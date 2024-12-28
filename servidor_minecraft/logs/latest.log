@@ -1014,3 +1014,12 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [21:15:47] [Server thread/INFO]: GrPatrixYT issued server command: /skill lang es
 [21:15:52] [Server thread/INFO]: Alipsi issued server command: /skill lang es
 [21:16:21] [Server thread/INFO]: SANS1237843 issued server command: /back
+[21:16:38] [Server thread/INFO]: SANS1237843 has made the advancement [A Seedy Place]
+[21:16:58] [Server thread/INFO]: luispro110224 was doomed to fall by Zombie
+[21:17:04] [Server thread/INFO]: luispro110224 issued server command: /back
+[21:17:17] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[21:20:06] [Server thread/INFO]: SANS1237843 has made the advancement [Into Fire]
+[21:20:43] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[21:20:43] [Server thread/INFO]: GrPatrixYT left the game
+[21:22:28] [Server thread/INFO]: SANS1237843 has made the advancement [Diamonds!]
+[21:23:43] [Server thread/INFO]: SANS1237843 has reached the goal [Zombie Doctor]
