@@ -1041,3 +1041,6 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [05:38:01] [Server thread/INFO]: luispro110224 left the game
 [05:42:51] [Server thread/INFO]: Alipsi has made the advancement [Local Brewery]
 [05:49:40] [Server thread/INFO]: Villager Villager['Armorer'/76141, uuid='dc1ace95-a206-44df-b83d-5f85541d9653', l='ServerLevel[world]', x=-1019.70, y=82.26, z=-2132.49, cpos=[-64, -134], tl=199372, v=true] died, message: 'Armorer was slain by Zombie'
+[05:54:57] [Server thread/INFO]: Alipsi has reached the goal [Zombie Doctor]
+[05:56:50] [Server thread/INFO]: GrPatrixYT has completed the challenge [Return to Sender]
+[05:59:25] [Server thread/INFO]: Alipsi has made the advancement [Cover Me with Diamonds]
