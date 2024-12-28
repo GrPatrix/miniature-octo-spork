@@ -992,3 +992,4 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [20:53:41] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
 [20:53:41] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
 [20:54:37] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[20:58:14] [Server thread/INFO]: Alipsi issued server command: /skills
