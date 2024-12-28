@@ -987,3 +987,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [20:37:11] [Server thread/INFO]: [GrPatrixYT: Set own game mode to Survival Mode]
 [20:37:36] [Server thread/INFO]: [AngelChest] SANS1237843 opened the AngelChest of SANS1237843 at Location{world=CraftWorld{name=world},x=-1060.0,y=63.0,z=-2177.0,pitch=0.0,yaw=0.0}
 [20:37:53] [Server thread/INFO]: [AngelChest] SANS1237843 opened the AngelChest of SANS1237843 at Location{world=CraftWorld{name=world},x=-1060.0,y=63.0,z=-2177.0,pitch=0.0,yaw=0.0}
+[20:47:48] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[20:52:38] [Server thread/INFO]: Alipsi was blown up by Creeper
+[20:53:41] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
+[20:53:41] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
+[20:54:37] [Server thread/INFO]: Alipsi issued server command: /tpa s
