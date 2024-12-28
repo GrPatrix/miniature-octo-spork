@@ -174,3 +174,12 @@
 [02:53:11] [Server thread/INFO]: Alipsi issued server command: /back
 [02:59:13] [Server thread/INFO]: Villager Villager['Fletcher'/26064, uuid='5f82b6a7-b6d1-45a3-ae82-f2f9ba3f4865', l='ServerLevel[world]', x=-1074.55, y=70.32, z=-2151.29, cpos=[-68, -135], tl=78683, v=true] died, message: 'Fletcher tried to swim in lava'
 [03:01:02] [Server thread/INFO]: Villager Villager['Fletcher'/26051, uuid='b2bdaf89-096f-4a09-8e16-71563ee2647d', l='ServerLevel[world]', x=-1075.30, y=70.26, z=-2150.77, cpos=[-68, -135], tl=80537, v=true] died, message: 'Fletcher tried to swim in lava'
+[03:09:52] [Server thread/INFO]: Villager Villager['Farmer'/26056, uuid='eabdea70-e6af-4be5-a73d-d9afc3b96c92', l='ServerLevel[world]', x=-1062.51, y=75.00, z=-2068.05, cpos=[-67, -130], tl=91966, v=true] died, message: 'Farmer was slain by Zombie'
+[03:11:19] [User Authenticator #4/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[03:11:20] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:11:20] [Server thread/INFO]: GrPatrixYT joined the game
+[03:11:20] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:53791] logged in with entity id 28645 at ([world_nether]270.2777090928298, 69.0, -297.51769694018543)
+[03:13:49] [Server thread/INFO]: Villager Villager['Villager'/26053, uuid='32a89397-72e7-4c1f-8faa-7edab3fe36ed', l='ServerLevel[world]', x=-1019.47, y=81.00, z=-2128.70, cpos=[-64, -134], tl=95639, v=true] died, message: 'Villager was slain by Zombie'
+[03:13:57] [Server thread/INFO]: Villager Villager['Nitwit'/26063, uuid='575e00a5-3355-475f-a167-cb48862ab808', l='ServerLevel[world]', x=-1018.70, y=81.63, z=-2131.91, cpos=[-64, -134], tl=96122, v=true] died, message: 'Nitwit was slain by Zombie'
+[03:14:21] [Server thread/INFO]: GrPatrixYT has made the advancement [A Terrible Fortress]
+[03:14:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Alipsi> goend
