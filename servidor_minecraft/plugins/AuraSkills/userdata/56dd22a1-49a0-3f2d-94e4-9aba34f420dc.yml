@@ -20,10 +20,10 @@ skills:
     xp: 30.0
   auraskills/agility:
     level: 6
-    xp: 1487.6832000000022
+    xp: 1657.9252000000022
   auraskills/foraging:
     level: 8
-    xp: 957.9800000001186
+    xp: 6109.340000000198
   auraskills/excavation:
     level: 2
     xp: 276.6900000000014
@@ -33,7 +33,7 @@ skills:
   auraskills/defense:
     level: 5
     xp: 1271.7213203907038
-mana: 32.0
+mana: 24.60000000000003
 action_bar:
   idle: true
 trait_modifiers:
@@ -55,6 +55,8 @@ trait_modifiers:
     value: 10.0
 ability_data:
   auraskills/xp_convert:
-    xp: 12.024199999999245
+    xp: 23.62619999999977
   auraskills/first_strike:
     counter: 2
+  auraskills/treecapitator:
+    cooldown: 3252

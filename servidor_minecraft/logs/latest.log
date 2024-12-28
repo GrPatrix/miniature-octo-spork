@@ -993,3 +993,24 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [20:53:41] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
 [20:54:37] [Server thread/INFO]: Alipsi issued server command: /tpa s
 [20:58:14] [Server thread/INFO]: Alipsi issued server command: /skills
+[21:06:25] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[21:07:57] [Server thread/INFO]: SANS1237843 issued server command: /back
+[21:11:28] [Server thread/INFO]: GrPatrixYT has made the advancement [A Seedy Place]
+[21:12:14] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[21:12:50] [Server thread/INFO]: SANS1237843 issued server command: /back
+[21:13:12] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[21:13:12] [Server thread/INFO]: GrPatrixYT left the game
+[21:13:13] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[21:13:15] [User Authenticator #12/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[21:13:16] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[21:13:16] [Server thread/INFO]: GrPatrixYT joined the game
+[21:13:16] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:51469] logged in with entity id 90100 at ([world]-783.0205252970933, 64.0, -1774.0134545809115)
+[21:14:58] [Server thread/INFO]: Alipsi issued server command: /skill esp
+[21:15:08] [Server thread/INFO]: Alipsi issued server command: /back
+[21:15:16] [Server thread/INFO]: SANS1237843 issued server command: /skill esp
+[21:15:22] [Server thread/INFO]: SANS1237843 issued server command: /sk help
+[21:15:37] [Server thread/INFO]: Alipsi issued server command: /skill lang esp
+[21:15:38] [Server thread/INFO]: SANS1237843 issued server command: /skill lang es
+[21:15:47] [Server thread/INFO]: GrPatrixYT issued server command: /skill lang es
+[21:15:52] [Server thread/INFO]: Alipsi issued server command: /skill lang es
+[21:16:21] [Server thread/INFO]: SANS1237843 issued server command: /back

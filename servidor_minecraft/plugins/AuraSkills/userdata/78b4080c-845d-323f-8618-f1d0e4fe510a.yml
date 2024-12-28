@@ -20,10 +20,10 @@ skills:
     xp: 45.0
   auraskills/foraging:
     level: 2
-    xp: 308.24000000000035
+    xp: 384.79999999999995
   auraskills/agility:
     level: 5
-    xp: 373.61140000000006
+    xp: 519.9358
   auraskills/archery:
     level: 0
     xp: 7.0
@@ -51,4 +51,4 @@ trait_modifiers:
     value: 10.0
 ability_data:
   auraskills/xp_convert:
-    xp: 6.34177296447743
+    xp: 19.226172964477414
