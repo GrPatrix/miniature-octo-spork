@@ -1080,3 +1080,7 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [21:54:18] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [21:54:18] [Server thread/INFO]: Alipsi joined the game
 [21:54:18] [Server thread/INFO]: Alipsi[/127.234.234.45:41699] logged in with entity id 99864 at ([world]-966.2525988518562, 70.0, -2510.3372245169394)
+[21:57:19] [Server thread/INFO]: Alipsi issued server command: /tpauto
+[21:57:22] [Server thread/INFO]: Alipsi issued server command: /back
+[21:57:41] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[22:04:36] [Server thread/INFO]: SANS1237843 has made the advancement [Isn't It Iron Pick]
