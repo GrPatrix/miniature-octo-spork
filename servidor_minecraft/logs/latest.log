@@ -169,3 +169,4 @@
 [02:36:01] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [02:36:01] [Server thread/INFO]: Alipsi joined the game
 [02:36:01] [Server thread/INFO]: Alipsi[/127.234.234.45:43623] logged in with entity id 22893 at ([world]-1062.4626376206018, 74.0, -2127.71335947781)
+[02:43:48] [Server thread/INFO]: Alipsi issued server command: /back
