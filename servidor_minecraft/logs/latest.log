@@ -1024,3 +1024,18 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
 	... 27 more
 [05:28:58] [Server thread/INFO]: luispro110224 issued server command: /tpaccept
+[05:29:49] [Async Chat Thread - #65/INFO]: [Not Secure] <Alipsi> dejaaa
+[05:33:41] [Async Chat Thread - #67/INFO]: [Not Secure] <Alipsi> alm
+[05:33:55] [Async Chat Thread - #67/INFO]: [Not Secure] <luispro110224> ayudaaaa
+[05:34:13] [Server thread/INFO]: Alipsi was slain by Zombie
+[05:34:17] [Async Chat Thread - #67/INFO]: [Not Secure] <Alipsi> q mrd
+[05:34:39] [Async Chat Thread - #67/INFO]: [Not Secure] <Alipsi> bloquee
+[05:36:35] [Server thread/INFO]: luispro110224 has made the advancement [A Seedy Place]
+[05:37:33] [Async Chat Thread - #69/INFO]: [Not Secure] <luispro110224> mñn jugamos ps
+[05:37:38] [Async Chat Thread - #69/INFO]: [Not Secure] <luispro110224> ya jalo a dormir
+[05:37:43] [Async Chat Thread - #69/INFO]: [Not Secure] <Alipsi> dake
+[05:37:45] [Async Chat Thread - #69/INFO]: [Not Secure] <Alipsi> dale
+[05:37:47] [Async Chat Thread - #69/INFO]: [Not Secure] <Alipsi> yo wa seguir
+[05:37:59] [Async Chat Thread - #69/INFO]: [Not Secure] <luispro110224> ya listo
+[05:38:01] [Server thread/INFO]: luispro110224 lost connection: Disconnected
+[05:38:01] [Server thread/INFO]: luispro110224 left the game
