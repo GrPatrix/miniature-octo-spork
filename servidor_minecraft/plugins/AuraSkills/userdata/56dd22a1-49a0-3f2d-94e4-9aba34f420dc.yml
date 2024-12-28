@@ -13,8 +13,8 @@ skills:
     level: 0
     xp: 0.0
   auraskills/mining:
-    level: 0
-    xp: 67.8
+    level: 1
+    xp: 16.400000000000038
   auraskills/archery:
     level: 0
     xp: 0.0
@@ -38,6 +38,10 @@ action_bar:
   idle: true
 trait_modifiers:
   '0':
+    name: mining_luck_ability
+    trait: auraskills/mining_luck
+    value: 5.0
+  '1':
     name: foraging_luck_ability
     trait: auraskills/foraging_luck
     value: 10.0
