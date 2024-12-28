@@ -142,3 +142,4 @@
 [00:50:45] [Server thread/INFO]: Alipsi has made the advancement [Diamonds!]
 [00:56:29] [Server thread/INFO]: Alipsi issued server command: /back
 [01:00:29] [Server thread/INFO]: Alipsi has made the advancement [What a Deal!]
+[01:21:46] [Server thread/INFO]: Villager Villager['Fletcher'/6480, uuid='56e3c813-a3c3-44db-9e3a-144fd0732994', l='ServerLevel[world]', x=-465.70, y=64.56, z=-1257.74, cpos=[-30, -79], tl=73359, v=true] died, message: 'Fletcher was burned to a crisp while fighting Zombie'
