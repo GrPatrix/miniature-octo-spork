@@ -1408,3 +1408,12 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [23:38:41] [Server thread/INFO]: GrPatrixYT joined the game
 [23:38:41] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [23:38:41] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:48479] logged in with entity id 132034 at ([world]-758.0244374174181, 66.0, -1828.3909649509776)
+[23:39:36] [Server thread/INFO]: SANS1237843 lost connection: Disconnected
+[23:39:36] [Server thread/INFO]: SANS1237843 left the game
+[23:39:37] [User Authenticator #18/INFO]: UUID of player SANS1237843 is 62fed0e1-ff38-36a6-8695-7c50b7f30215
+[23:39:39] [TAB Processing Thread/INFO]: [TAB] [WARN] Player SANS1237843's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:39:39] [Server thread/INFO]: SANS1237843 joined the game
+[23:39:39] [Server thread/INFO]: SANS1237843[/127.72.228.58:58831] logged in with entity id 132558 at ([world]-1015.070552086067, -53.0, -2180.9581794766987)
+[23:40:24] [Server thread/INFO]: luispro110224 issued server command: /tpauto
+[23:40:47] [Server thread/INFO]: SANS1237843 issued server command: /tpa luispro110224
+[23:40:56] [Server thread/INFO]: Alipsi issued server command: /tpa s
