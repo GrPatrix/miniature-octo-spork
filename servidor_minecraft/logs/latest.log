@@ -1068,3 +1068,8 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
 	... 27 more
 [21:36:51] [Server thread/INFO]: Alipsi issued server command: /tpa luis
+[21:37:05] [Server thread/INFO]: luispro110224 issued server command: /tpaccept
+[21:41:39] [Server thread/INFO]: Alipsi issued server command: /back
+[21:41:46] [Server thread/INFO]: SANS1237843 was slain by Iron Golem
+[21:45:39] [Server thread/INFO]: Alipsi issued server command: /back
+[21:46:31] [Server thread/WARN]: Alipsi moved too quickly! 7.029503788633065,-8.87748047429504,-5.810823268626336

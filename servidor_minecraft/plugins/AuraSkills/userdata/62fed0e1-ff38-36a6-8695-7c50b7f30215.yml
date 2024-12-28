@@ -5,7 +5,7 @@ skills:
     xp: 301.54338378906243
   auraskills/foraging:
     level: 6
-    xp: 750.6400000000087
+    xp: 1120.2400000000068
   auraskills/mining:
     level: 3
     xp: 173.91000000000824
@@ -16,8 +16,8 @@ skills:
     level: 0
     xp: 93.0
   auraskills/enchanting:
-    level: 1
-    xp: 20.0
+    level: 2
+    xp: 198.00000000000003
   auraskills/fishing:
     level: 0
     xp: 0.0
@@ -32,16 +32,11 @@ skills:
     xp: 90.0
   auraskills/agility:
     level: 4
-    xp: 145.78619999999972
-mana: 28.0
+    xp: 228.51419999999973
+mana: 30.0
 action_bar:
   idle: true
 locale: es
-stat_modifiers:
-  '0':
-    name: foraging-valor
-    stat: auraskills/strength
-    value: 1.0
 trait_modifiers:
   '0':
     name: mining_luck_ability
@@ -52,13 +47,9 @@ trait_modifiers:
     trait: auraskills/excavation_luck
     value: 10.0
   '2':
-    name: auraskills/fleeting
-    trait: auraskills/movement_speed
-    value: 5.0
-  '3':
     name: foraging_luck_ability
     trait: auraskills/foraging_luck
     value: 20.0
 ability_data:
   auraskills/xp_convert:
-    xp: 10.390386352539096
+    xp: 0.7183863525391807
