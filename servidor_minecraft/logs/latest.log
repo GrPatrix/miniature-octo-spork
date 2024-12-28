@@ -163,3 +163,9 @@
 [02:11:08] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [02:11:08] [Server thread/INFO]: Alipsi joined the game
 [02:11:08] [Server thread/INFO]: Alipsi[/127.234.234.45:43245] logged in with entity id 19640 at ([world]-1059.7137058650908, 74.0, -2131.4921083246427)
+[02:34:30] [Server thread/INFO]: Alipsi lost connection: Disconnected
+[02:34:30] [Server thread/INFO]: Alipsi left the game
+[02:35:59] [User Authenticator #3/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
+[02:36:01] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[02:36:01] [Server thread/INFO]: Alipsi joined the game
+[02:36:01] [Server thread/INFO]: Alipsi[/127.234.234.45:43623] logged in with entity id 22893 at ([world]-1062.4626376206018, 74.0, -2127.71335947781)
