@@ -478,3 +478,7 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [18:42:01] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
 [18:42:01] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
 [18:42:48] [Server thread/WARN]: GrPatrixYT moved too quickly! 5.944346633512396,-6.476851469897149,-7.745233518112855
+[18:44:04] [Server thread/INFO]: SANS1237843 issued server command: /back
+[18:46:04] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[18:46:14] [Server thread/INFO]: SANS1237843 issued server command: /back
+[18:50:23] [Server thread/WARN]: GrPatrixYT moved wrongly!
