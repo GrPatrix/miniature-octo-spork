@@ -1417,3 +1417,18 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [23:40:24] [Server thread/INFO]: luispro110224 issued server command: /tpauto
 [23:40:47] [Server thread/INFO]: SANS1237843 issued server command: /tpa luispro110224
 [23:40:56] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[23:49:01] [Server thread/WARN]: Alipsi moved too quickly! 1.9728962970698376,-8.54587871769533,-4.833227719601382
+[23:50:43] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[23:51:21] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[23:51:21] [Server thread/INFO]: GrPatrixYT left the game
+[23:51:30] [User Authenticator #19/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[23:51:31] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:51:31] [Server thread/INFO]: GrPatrixYT joined the game
+[23:51:31] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:60633] logged in with entity id 137453 at ([world]-788.675189029755, 63.0, -1766.091262886879)
+[23:52:36] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[23:52:36] [Server thread/INFO]: GrPatrixYT left the game
+[23:52:38] [User Authenticator #20/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[23:52:39] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:52:39] [Server thread/INFO]: GrPatrixYT joined the game
+[23:52:39] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:59515] logged in with entity id 138080 at ([world]-828.6347969125851, 63.0, -1767.2491944903625)
+[23:54:38] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
