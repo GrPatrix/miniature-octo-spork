@@ -421,3 +421,5 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [03:28:39] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
 [03:29:07] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
 [03:29:07] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
+[03:41:22] [Server thread/INFO]: Alipsi lost connection: Disconnected
+[03:41:22] [Server thread/INFO]: Alipsi left the game
