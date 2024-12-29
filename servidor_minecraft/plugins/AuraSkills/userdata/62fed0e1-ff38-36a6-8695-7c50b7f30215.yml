@@ -11,7 +11,7 @@ skills:
     xp: 257.0800000000223
   auraskills/excavation:
     level: 3
-    xp: 287.88000000000227
+    xp: 288.32000000000227
   auraskills/farming:
     level: 2
     xp: 207.51999999999987
@@ -56,6 +56,6 @@ trait_modifiers:
     value: 10.0
 ability_data:
   auraskills/xp_convert:
-    xp: 7.355611641693887
+    xp: 7.795611641693887
   auraskills/first_strike:
     counter: 0
