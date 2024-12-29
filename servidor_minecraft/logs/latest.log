@@ -378,3 +378,7 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [02:31:19] [Server thread/INFO]: Alipsi fell from a high place
 [02:31:23] [Server thread/INFO]: Alipsi issued server command: /back
 [02:31:49] [Server thread/INFO]: SANS1237843 issued server command: /back
+[02:41:28] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[02:41:36] [Server thread/INFO]: SANS1237843 issued server command: /back
+[02:41:43] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[02:41:59] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
