@@ -241,3 +241,21 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
 	... 27 more
 [18:41:16] [Server thread/INFO]: Alipsi issued server command: /back
+[18:53:37] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[18:53:37] [Server thread/INFO]: GrPatrixYT left the game
+[18:53:40] [User Authenticator #4/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[18:53:41] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:53:41] [Server thread/INFO]: GrPatrixYT joined the game
+[18:53:41] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:35549] logged in with entity id 51764 at ([world_nether]2036.8128198116942, 33.0, 3235.326264650798)
+[18:53:43] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[18:53:43] [Server thread/INFO]: GrPatrixYT left the game
+[18:53:46] [User Authenticator #4/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[18:53:47] [Server thread/INFO]: GrPatrixYT joined the game
+[18:53:47] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:53:47] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:59507] logged in with entity id 51852 at ([world_nether]2036.8128198116942, 33.0, 3235.326264650798)
+[18:53:50] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[18:53:50] [Server thread/INFO]: GrPatrixYT left the game
+[18:53:52] [User Authenticator #4/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[18:53:53] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:53:53] [Server thread/INFO]: GrPatrixYT joined the game
+[18:53:53] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:58495] logged in with entity id 51909 at ([world_nether]2041.699999988079, 33.0, 3238.699999988079)
