@@ -978,3 +978,15 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [22:50:41] [Server thread/INFO]: Villager Villager['Fletcher'/108009, uuid='ab56db15-da32-4e5c-98ba-70b2543dc185', l='ServerLevel[world]', x=-1075.69, y=71.56, z=-2156.53, cpos=[-68, -135], tl=924444, v=true] died, message: 'Fletcher was slain by Vindicator'
 [22:50:44] [Server thread/INFO]: Villager Villager['Fletcher'/108013, uuid='0b46dd3f-9a87-40b9-ae4c-49da82d52614', l='ServerLevel[world]', x=-1075.70, y=71.60, z=-2156.70, cpos=[-68, -135], tl=924851, v=true] died, message: 'Fletcher was slain by Vindicator'
 [22:50:46] [Server thread/INFO]: Villager Villager['Fletcher'/108012, uuid='064a98dc-db22-4963-8f2e-7b694adfeb5e', l='ServerLevel[world]', x=-1073.30, y=71.82, z=-2156.70, cpos=[-68, -135], tl=924548, v=true] died, message: 'Fletcher was slain by Vindicator'
+[22:56:10] [Server thread/INFO]: INKA2502 was slain by Vex
+[22:57:16] [Server thread/INFO]: xRoma47x was slain by Vex
+[22:57:20] [Server thread/INFO]: xRoma47x issued server command: /back
+[22:57:26] [Server thread/INFO]: GrPatrixYT has reached the goal [Postmortal]
+[23:00:11] [Server thread/INFO]: xRoma47x was slain by Vindicator
+[23:00:14] [Server thread/INFO]: xRoma47x issued server command: /back
+[23:00:33] [Server thread/INFO]: INKA2502 issued server command: /tpa Alipsi
+[23:00:34] [Server thread/INFO]: Alipsi has reached the goal [Postmortal]
+[23:00:35] [Server thread/INFO]: xRoma47x was slain by Vindicator
+[23:01:57] [Server thread/INFO]: INKA2502 was blown up by Creeper
+[23:02:51] [Server thread/INFO]: xRoma47x has made the advancement [Ol' Betsy]
+[23:02:51] [Server thread/INFO]: xRoma47x has made the advancement [Take Aim]
