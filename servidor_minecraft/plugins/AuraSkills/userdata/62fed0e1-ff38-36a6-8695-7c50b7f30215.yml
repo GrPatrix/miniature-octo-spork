@@ -23,7 +23,7 @@ skills:
     xp: 0.0
   auraskills/fighting:
     level: 4
-    xp: 358.0
+    xp: 360.2
   auraskills/archery:
     level: 0
     xp: 0.0
@@ -32,7 +32,7 @@ skills:
     xp: 130.0
   auraskills/agility:
     level: 5
-    xp: 613.6024
+    xp: 656.1012
 mana: 32.0
 action_bar:
   idle: true
@@ -56,6 +56,6 @@ trait_modifiers:
     value: 10.0
 ability_data:
   auraskills/xp_convert:
-    xp: 3.864011641693807
+    xp: 18.562811641693806
   auraskills/first_strike:
     counter: 0
