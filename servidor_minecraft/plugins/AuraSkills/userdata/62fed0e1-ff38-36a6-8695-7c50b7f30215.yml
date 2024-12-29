@@ -2,7 +2,7 @@ uuid: 62fed0e1-ff38-36a6-8695-7c50b7f30215
 skills:
   auraskills/defense:
     level: 5
-    xp: 342.57080907821916
+    xp: 355.77080907821914
   auraskills/foraging:
     level: 6
     xp: 2226.40000000004
@@ -32,7 +32,7 @@ skills:
     xp: 130.0
   auraskills/agility:
     level: 5
-    xp: 555.8381999999999
+    xp: 613.6024
 mana: 32.0
 action_bar:
   idle: true
@@ -56,6 +56,6 @@ trait_modifiers:
     value: 10.0
 ability_data:
   auraskills/xp_convert:
-    xp: 22.899811641693802
+    xp: 3.864011641693807
   auraskills/first_strike:
     counter: 0
