@@ -415,3 +415,9 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [03:20:59] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
 [03:20:59] [Server thread/INFO]: GrPatrixYT joined the game
 [03:20:59] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:42569] logged in with entity id 212226 at ([world]-1286.0710874411016, 120.0, -2894.4956874215154)
+[03:23:56] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
+[03:23:56] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
+[03:28:39] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
+[03:28:39] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
+[03:29:07] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
+[03:29:07] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
