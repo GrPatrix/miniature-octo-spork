@@ -169,3 +169,31 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [00:41:38] [Server thread/INFO]: SANS1237843 issued server command: /back
 [00:46:45] [Server thread/INFO]: SANS1237843 issued server command: /tpa GrPatrixYT
 [00:46:50] [Server thread/INFO]: SANS1237843 issued server command: /tpa GrPatrixYT
+[00:55:09] [Server thread/INFO]: Alipsi lost connection: Disconnected
+[00:55:09] [Server thread/INFO]: Alipsi left the game
+[00:55:22] [User Authenticator #23/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
+[00:55:23] [Server thread/INFO]: Alipsi joined the game
+[00:55:23] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:55:23] [Server thread/INFO]: Alipsi[/127.234.234.45:43383] logged in with entity id 164243 at ([world]-1277.699999988079, 62.42417253116749, -2893.7806506997995)
+[00:56:01] [Server thread/INFO]: Alipsi lost connection: Disconnected
+[00:56:01] [Server thread/INFO]: Alipsi left the game
+[00:56:02] [User Authenticator #23/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
+[00:56:03] [Server thread/INFO]: Alipsi joined the game
+[00:56:03] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[00:56:03] [Server thread/INFO]: Alipsi[/127.234.234.45:56571] logged in with entity id 164434 at ([world]-1285.9406337794521, 78.5, -2896.1113704883714)
+[00:59:11] [Server thread/INFO]: GrPatrixYT was slain by Guardian
+[00:59:17] [Server thread/INFO]: GrPatrixYT issued server command: /back
+[01:02:31] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
+[01:02:31] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
+[01:03:24] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[01:03:24] [Server thread/INFO]: GrPatrixYT left the game
+[01:04:03] [Server thread/INFO]: Alipsi fell from a high place
+[01:04:07] [Server thread/INFO]: Alipsi issued server command: /BACK
+[01:04:09] [Server thread/INFO]: Alipsi issued server command: /back
+[01:04:42] [Server thread/INFO]: Alipsi issued server command: /back
+[01:04:52] [Server thread/INFO]: Alipsi issued server command: /back
+[01:04:54] [Server thread/INFO]: Alipsi issued server command: /back
+[01:10:24] [User Authenticator #24/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[01:10:25] [Server thread/INFO]: GrPatrixYT joined the game
+[01:10:25] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[01:10:25] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:56021] logged in with entity id 170093 at ([world]-1279.0801243321878, 66.0, -2890.5295041998916)
