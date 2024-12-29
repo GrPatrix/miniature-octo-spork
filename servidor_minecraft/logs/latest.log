@@ -158,3 +158,46 @@
 [18:13:33] [Server thread/INFO]: Alipsi issued server command: /back
 [18:13:42] [Server thread/INFO]: Alipsi tried to swim in lava
 [18:13:54] [Async Chat Thread - #0/INFO]: [Not Secure] <Alipsi> 1783 29 1241
+[18:18:01] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
+[18:18:02] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
+[18:18:17] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
+[18:18:17] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
+[18:18:20] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
+[18:18:20] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
+[18:18:23] [Server thread/INFO]: Alipsi was slain by GrPatrixYT
+[18:18:25] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
+[18:18:25] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
+[18:18:46] [Server thread/INFO]: GrPatrixYT issued server command: /back
+[18:24:45] [Server thread/INFO]: Alipsi was shot by Piglin
+[18:24:51] [Server thread/INFO]: Alipsi issued server command: /bacj
+[18:24:54] [Server thread/INFO]: Alipsi issued server command: /back
+[18:28:30] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
+[18:28:30] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
+[18:29:07] [Server thread/INFO]: Alipsi lost connection: Disconnected
+[18:29:07] [Server thread/INFO]: Alipsi left the game
+[18:29:26] [User Authenticator #2/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
+[18:29:27] [Server thread/INFO]: Alipsi joined the game
+[18:29:27] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:29:27] [Server thread/INFO]: Alipsi[/127.49.25.160:36241] logged in with entity id 43396 at ([world_nether]1907.2550433013882, 39.0, 1813.9295037425798)
+[18:32:01] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
+[18:32:01] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
+[18:32:04] [Server thread/INFO]: Alipsi lost connection: Disconnected
+[18:32:04] [Server thread/INFO]: Alipsi left the game
+[18:32:17] [User Authenticator #3/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
+[18:32:18] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:32:18] [Server thread/INFO]: Alipsi joined the game
+[18:32:18] [Server thread/INFO]: Alipsi[/127.49.25.160:41161] logged in with entity id 43666 at ([world_nether]1925.437180844478, 29.93897638153302, 1832.9834149163523)
+[18:32:18] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
+[18:32:18] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
+[18:32:22] [Server thread/INFO]: Alipsi lost connection: Disconnected
+[18:32:22] [Server thread/INFO]: Alipsi left the game
+[18:32:25] [User Authenticator #3/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
+[18:32:26] [Server thread/INFO]: Alipsi joined the game
+[18:32:26] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:32:26] [Server thread/INFO]: Alipsi[/127.49.25.160:58487] logged in with entity id 43676 at ([world_nether]1917.6482907304799, 33.0, 1835.8585840061166)
+[18:32:31] [Server thread/INFO]: Alipsi lost connection: Disconnected
+[18:32:31] [Server thread/INFO]: Alipsi left the game
+[18:32:33] [User Authenticator #3/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
+[18:32:34] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[18:32:34] [Server thread/INFO]: Alipsi joined the game
+[18:32:34] [Server thread/INFO]: Alipsi[/127.49.25.160:59285] logged in with entity id 43697 at ([world_nether]1918.0973572287837, 33.0, 1836.6227528895388)
