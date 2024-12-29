@@ -2,7 +2,7 @@ uuid: 8944fc3b-cd50-39c1-a5ea-89e96f123b85
 skills:
   auraskills/excavation:
     level: 0
-    xp: 51.30000000000007
+    xp: 56.70000000000002
   auraskills/farming:
     level: 2
     xp: 142.79999999999987
@@ -11,13 +11,13 @@ skills:
     xp: 0.0
   auraskills/fighting:
     level: 0
-    xp: 14.0
+    xp: 23.0
   auraskills/fishing:
     level: 0
     xp: 0.0
   auraskills/agility:
     level: 0
-    xp: 7.0
+    xp: 30.8
   auraskills/alchemy:
     level: 0
     xp: 0.0
@@ -28,16 +28,20 @@ skills:
     level: 0
     xp: 0.0
   auraskills/mining:
-    level: 0
-    xp: 0.0
+    level: 2
+    xp: 191.52000000000032
   auraskills/defense:
     level: 0
-    xp: 18.0
+    xp: 42.0
 mana: 20.0
 action_bar:
   idle: true
 trait_modifiers:
   '0':
+    name: mining_luck_ability
+    trait: auraskills/mining_luck
+    value: 5.0
+  '1':
     name: farming_luck_ability
     trait: auraskills/farming_luck
     value: 10.0

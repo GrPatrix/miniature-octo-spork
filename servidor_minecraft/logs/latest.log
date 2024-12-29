@@ -222,3 +222,11 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [04:58:54] [Server thread/INFO]: xRoma47x has made the advancement [Monster Hunter]
 [05:00:59] [Server thread/INFO]: SANS1237843 lost connection: Disconnected
 [05:00:59] [Server thread/INFO]: SANS1237843 left the game
+[05:02:17] [Server thread/INFO]: xRoma47x has made the advancement [Stone Age]
+[05:05:06] [Server thread/INFO]: Alipsi fell from a high place
+[05:05:11] [Async Chat Thread - #0/INFO]: [Not Secure] <GrPatrixYT> xd
+[05:05:13] [Async Chat Thread - #0/INFO]: [Not Secure] <GrPatrixYT> gg
+[05:05:14] [Server thread/INFO]: Alipsi issued server command: /back
+[05:06:40] [Server thread/INFO]: GrPatrixYT issued server command: /tp xRoma47x
+[05:06:40] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to xRoma47x]
+[05:11:56] [Server thread/INFO]: xRoma47x has made the advancement [Acquire Hardware]
