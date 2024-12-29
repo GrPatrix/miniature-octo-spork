@@ -146,3 +146,8 @@
 [17:10:55] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:48055] logged in with entity id 3993 at ([world]-825.9039130346373, 63.0, -1753.2980923158832)
 [17:22:30] [Server thread/INFO]: Alipsi was slain by Enderman
 [17:22:36] [Server thread/INFO]: Alipsi issued server command: /back
+[17:40:03] [Server thread/WARN]: Alipsi moved too quickly! 6.051740509816227,-62.917810460686596,-2.0599113457519707
+[17:40:48] [Server thread/WARN]: Alipsi moved too quickly! 5.506395275751856,-61.018532111298754,-6.200958137015732
+[17:40:48] [Server thread/INFO]: Alipsi has completed the challenge [Great View From Up Here]
+[17:42:32] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
+[17:42:32] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
