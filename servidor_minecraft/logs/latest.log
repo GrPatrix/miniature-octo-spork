@@ -391,3 +391,23 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [02:51:52] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
 [02:51:58] [Server thread/INFO]: SANS1237843 issued server command: /back
 [02:52:03] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[02:52:48] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[02:52:57] [Server thread/INFO]: Alipsi was doomed to fall
+[02:53:01] [Server thread/INFO]: Alipsi issued server command: /back
+[02:53:26] [Server thread/INFO]: SANS1237843 was doomed to fall by GrPatrixYT
+[02:53:29] [Server thread/INFO]: SANS1237843 issued server command: /back
+[02:53:39] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[02:53:42] [Server thread/INFO]: SANS1237843 issued server command: /back
+[02:53:47] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[02:54:57] [Server thread/INFO]: SANS1237843 issued server command: /back
+[02:55:06] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[02:55:30] [Server thread/INFO]: SANS1237843 issued server command: /back
+[02:55:37] [Server thread/INFO]: Alipsi issued server command: /tpa G
+[02:55:44] [Server thread/INFO]: SANS1237843 issued server command: /back
+[02:55:48] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
+[02:55:48] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
+[02:55:59] [Server thread/INFO]: SANS1237843 issued server command: /tpa GrPatrixYT
+[02:57:03] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[02:59:33] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[02:59:33] [Server thread/INFO]: GrPatrixYT left the game
+[03:01:40] [Server thread/INFO]: SANS1237843 issued server command: /skill
