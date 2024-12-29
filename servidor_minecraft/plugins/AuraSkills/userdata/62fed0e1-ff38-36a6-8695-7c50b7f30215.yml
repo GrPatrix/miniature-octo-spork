@@ -14,7 +14,7 @@ skills:
     xp: 269.730000000003
   auraskills/farming:
     level: 1
-    xp: 92.5
+    xp: 155.5
   auraskills/enchanting:
     level: 2
     xp: 462.00000000000006
@@ -32,7 +32,7 @@ skills:
     xp: 130.0
   auraskills/agility:
     level: 5
-    xp: 724.7492
+    xp: 811.709
 mana: 32.0
 action_bar:
   idle: true
@@ -56,6 +56,6 @@ trait_modifiers:
     value: 10.0
 ability_data:
   auraskills/xp_convert:
-    xp: 27.210811641693805
+    xp: 27.170611641693814
   auraskills/first_strike:
     counter: 0

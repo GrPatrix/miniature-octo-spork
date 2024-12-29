@@ -351,3 +351,30 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [01:54:16] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
 [02:09:38] [Server thread/INFO]: Alipsi issued server command: /tpa s
 [02:20:01] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[02:22:25] [Server thread/INFO]: GrPatrixYT issued server command: /tp SANS1237843
+[02:22:25] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to SANS1237843]
+[02:22:47] [Server thread/INFO]: SANS1237843 issued server command: /back
+[02:26:06] [Server thread/WARN]: Alipsi moved too quickly! 1.163657838169911,-35.52689041546046,-4.971728129461098
+[02:27:23] [Server thread/INFO]: Alipsi issued server command: /tpa g
+[02:27:28] [Server thread/INFO]: Alipsi issued server command: /tpa g
+[02:27:31] [Async Chat Thread - #22/INFO]: [Not Secure] <Alipsi> q
+[02:27:35] [Server thread/INFO]: Alipsi issued server command: /tpa G
+[02:27:49] [Server thread/INFO]: Alipsi issued server command: /tpa Gr
+[02:28:29] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[02:28:39] [Server thread/INFO]: Alipsi issued server command: /tpa Gr
+[02:28:44] [Server thread/INFO]: Alipsi issued server command: /tpa Gr
+[02:28:49] [Server thread/INFO]: Alipsi issued server command: /tpa Gr
+[02:28:50] [Server thread/INFO]: SANS1237843 issued server command: /back
+[02:28:57] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
+[02:28:57] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
+[02:29:02] [Server thread/INFO]: SANS1237843 issued server command: /back
+[02:29:45] [Server thread/INFO]: Alipsi was shot by Skeleton
+[02:29:58] [Server thread/INFO]: Alipsi issued server command: /back
+[02:30:18] [Server thread/INFO]: Alipsi issued server command: /tpa Gr
+[02:30:22] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[02:30:32] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
+[02:30:32] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
+[02:30:44] [Server thread/INFO]: SANS1237843 issued server command: /back
+[02:31:19] [Server thread/INFO]: Alipsi fell from a high place
+[02:31:23] [Server thread/INFO]: Alipsi issued server command: /back
+[02:31:49] [Server thread/INFO]: SANS1237843 issued server command: /back
