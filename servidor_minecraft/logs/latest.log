@@ -501,3 +501,69 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [22:02:29] [Server thread/INFO]: GrPatrixYT issued server command: /actp 1
 [22:02:33] [Server thread/INFO]: GrPatrixYT issued server command: /back
 [22:02:52] [Server thread/INFO]: INKA2502 issued server command: /tpa Alipsi
+[22:04:00] [Server thread/INFO]: GrPatrixYT issued server command: /tp xRoma47x
+[22:04:00] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to xRoma47x]
+[22:04:41] [Server thread/INFO]: INKA2502 has made the advancement [Hidden in the Depths]
+[22:05:21] [Server thread/INFO]: GrPatrixYT issued server command: /tp @e Alipsi
+[22:05:21] [Server thread/INFO]: xRoma47x has made the advancement [We Need to Go Deeper]
+[22:05:21] [Server thread/INFO]: [GrPatrixYT: Teleported 1556 entities to Alipsi]
+[22:05:23] [Server thread/INFO]: Villager Villager['Villager'/81903, uuid='4837d060-a48c-43e8-9385-5cdf819825dd', l='ServerLevel[world_nether]', x=-829.70, y=15.00, z=-383.70, cpos=[-52, -24], tl=138070, v=true] died, message: 'Villager was blown up by Creeper'
+[22:05:25] [Server thread/INFO]: xRoma47x was slain by Magma Cube
+[22:05:31] [Server thread/WARN]: GrPatrixYT moved wrongly!
+[22:05:31] [Server thread/INFO]: Alipsi was slain by Magma Cube
+[22:05:32] [Server thread/WARN]: GrPatrixYT moved wrongly!
+[22:05:36] [Server thread/INFO]: [AngelChest] INKA2502 opened the AngelChest of xRoma47x at Location{world=CraftWorld{name=world_nether},x=-828.0,y=15.0,z=-382.0,pitch=0.0,yaw=0.0}
+[22:05:36] [Server thread/INFO]: xRoma47x issued server command: /back
+[22:05:37] [Server thread/INFO]: [AngelChest] INKA2502 opened the AngelChest of xRoma47x at Location{world=CraftWorld{name=world_nether},x=-828.0,y=15.0,z=-382.0,pitch=0.0,yaw=0.0}
+[22:05:38] [Server thread/INFO]: Alipsi issued server command: /back
+[22:05:39] [Server thread/INFO]: INKA2502 was slain by Magma Cube
+[22:06:21] [Server thread/INFO]: INKA2502 issued server command: /tpa Alipsi
+[22:06:41] [Server thread/INFO]: [AngelChest] INKA2502 opened the AngelChest of INKA2502 at Location{world=CraftWorld{name=world_nether},x=-828.0,y=15.0,z=-383.0,pitch=0.0,yaw=0.0}
+[22:06:50] [Server thread/INFO]: [AngelChest] INKA2502 opened the AngelChest of INKA2502 at Location{world=CraftWorld{name=world_nether},x=-828.0,y=15.0,z=-383.0,pitch=0.0,yaw=0.0}
+[22:07:02] [Server thread/INFO]: [AngelChest] INKA2502 opened the AngelChest of INKA2502 at Location{world=CraftWorld{name=world_nether},x=-828.0,y=15.0,z=-383.0,pitch=0.0,yaw=0.0}
+[22:07:06] [Server thread/INFO]: [AngelChest] INKA2502 opened the AngelChest of INKA2502 at Location{world=CraftWorld{name=world_nether},x=-828.0,y=15.0,z=-383.0,pitch=0.0,yaw=0.0}
+[22:07:09] [Server thread/INFO]: [AngelChest] INKA2502 opened the AngelChest of INKA2502 at Location{world=CraftWorld{name=world_nether},x=-828.0,y=15.0,z=-383.0,pitch=0.0,yaw=0.0}
+[22:08:50] [Server thread/INFO]: INKA2502 issued server command: /tpa Alipsi
+[22:11:53] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
+[22:11:53] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
+[22:12:29] [Server thread/INFO]: xRoma47x issued server command: /tpa GrPatrixYT
+[22:12:29] [Server thread/ERROR]: Command exception: /tpa GrPatrixYT
+org.bukkit.command.CommandException: Unhandled exception executing command 'tpa' in plugin SimpleTpa v7.4
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:355) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:342) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2241) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:154) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1577) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:207) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1547) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:138) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1498) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1508) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1344) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.api.ChatColor.Green
+	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
+	at net.md_5.bungee.api.ChatColor.valueOf(ChatColor.java:289) ~[bungeecord-chat-1.20-R0.2-deprecated+build.18.jar:?]
+	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.addButtonsMethod(SimpleTpaUtils.java:55) ~[SimpleTpa.jar:?]
+	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.sendRequest(SimpleTpaUtils.java:98) ~[SimpleTpa.jar:?]
+	at SimpleTpa.jar/me.mulemuledupe.simpletpa.commands.TpaCommand.onCommand(TpaCommand.java:125) ~[SimpleTpa.jar:?]
+	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
+	... 27 more
+[22:12:36] [Server thread/INFO]: GrPatrixYT issued server command: /tpaccept
+[22:13:14] [Server thread/INFO]: INKA2502 issued server command: /tpa Alipsi
