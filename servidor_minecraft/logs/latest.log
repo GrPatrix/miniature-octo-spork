@@ -423,3 +423,17 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [03:29:07] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
 [03:41:22] [Server thread/INFO]: Alipsi lost connection: Disconnected
 [03:41:22] [Server thread/INFO]: Alipsi left the game
+[03:43:23] [User Authenticator #26/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
+[03:43:24] [Server thread/INFO]: Alipsi joined the game
+[03:43:24] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:43:24] [Server thread/INFO]: Alipsi[/127.234.234.45:51989] logged in with entity id 216015 at ([world]-1281.4241574171976, 64.875, -2892.748055141223)
+[03:44:20] [Server thread/INFO]: GrPatrixYT issued server command: /tp SANS1237843 GrPatrixYT
+[03:44:20] [Server thread/INFO]: [GrPatrixYT: Teleported SANS1237843 to GrPatrixYT]
+[03:47:17] [Server thread/INFO]: GrPatrixYT drowned while trying to escape Drowned
+[03:47:20] [Server thread/INFO]: Alipsi lost connection: Timed out
+[03:47:20] [Server thread/INFO]: Alipsi left the game
+[03:47:24] [Server thread/INFO]: GrPatrixYT issued server command: /back
+[03:48:24] [User Authenticator #27/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
+[03:48:25] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[03:48:25] [Server thread/INFO]: Alipsi joined the game
+[03:48:25] [Server thread/INFO]: Alipsi[/127.234.234.45:59169] logged in with entity id 220088 at ([world]-1306.7669328504228, 123.0, -2893.4232326950655)
