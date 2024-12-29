@@ -20,7 +20,7 @@ skills:
     xp: 30.0
   auraskills/agility:
     level: 6
-    xp: 3404.8038000000047
+    xp: 3497.0106000000046
   auraskills/foraging:
     level: 9
     xp: 1293.1800000002236
@@ -56,6 +56,6 @@ trait_modifiers:
     value: 10.0
 ability_data:
   auraskills/xp_convert:
-    xp: 9.317197089005354
+    xp: 11.523997089005363
   auraskills/first_strike:
     counter: 15
