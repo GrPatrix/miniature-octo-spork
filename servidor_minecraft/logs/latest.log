@@ -440,3 +440,11 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [04:00:08] [Server thread/INFO]: GrPatrixYT issued server command: /tpa SANS1237843 SANS1237843
 [04:00:18] [Server thread/INFO]: GrPatrixYT issued server command: /back
 [04:02:32] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[04:05:25] [Async Chat Thread - #24/INFO]: [Not Secure] <Alipsi> ./kill SANS
+[04:05:29] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[04:05:36] [Server thread/INFO]: GrPatrixYT issued server command: /kill sans
+[04:05:42] [Server thread/INFO]: GrPatrixYT issued server command: /kill SANS1237843
+[04:05:42] [Server thread/INFO]: SANS1237843 was killed
+[04:05:42] [Server thread/INFO]: [GrPatrixYT: Killed SANS1237843]
+[04:05:47] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[04:06:28] [Server thread/INFO]: SANS1237843 issued server command: /back
