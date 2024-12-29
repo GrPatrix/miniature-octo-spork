@@ -350,3 +350,4 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [01:54:12] [Server thread/INFO]: SANS1237843 issued server command: /back
 [01:54:16] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
 [02:09:38] [Server thread/INFO]: Alipsi issued server command: /tpa s
+[02:20:01] [Server thread/INFO]: Alipsi issued server command: /tpa s
