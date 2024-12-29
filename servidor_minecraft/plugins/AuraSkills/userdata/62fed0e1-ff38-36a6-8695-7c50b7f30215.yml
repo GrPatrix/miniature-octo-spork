@@ -32,16 +32,11 @@ skills:
     xp: 130.0
   auraskills/agility:
     level: 5
-    xp: 1280.0331999999996
+    xp: 1363.9207999999996
 mana: 32.0
 action_bar:
   idle: true
 locale: es
-stat_modifiers:
-  '0':
-    name: foraging-valor
-    stat: auraskills/strength
-    value: 1.0
 trait_modifiers:
   '0':
     name: mining_luck_ability
@@ -61,6 +56,6 @@ trait_modifiers:
     value: 10.0
 ability_data:
   auraskills/xp_convert:
-    xp: 7.244811641693883
+    xp: 1.132411641693885
   auraskills/first_strike:
     counter: 0
