@@ -198,3 +198,27 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [04:39:45] [Server thread/INFO]: Alipsi issued server command: /back
 [04:39:50] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
 [04:39:50] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
+[04:50:33] [Server thread/INFO]: GrPatrixYT lost connection: Timed out
+[04:50:33] [Server thread/INFO]: GrPatrixYT left the game
+[04:51:28] [User Authenticator #2/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[04:51:31] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:51:31] [Server thread/INFO]: GrPatrixYT joined the game
+[04:51:31] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:48439] logged in with entity id 13603 at ([world]-821.672689152296, 66.0, -1747.3909794643507)
+[04:53:42] [User Authenticator #3/INFO]: UUID of player xRoma47x is 8944fc3b-cd50-39c1-a5ea-89e96f123b85
+[04:53:43] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xRoma47x's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:53:43] [Server thread/INFO]: xRoma47x joined the game
+[04:53:43] [Server thread/INFO]: xRoma47x[/127.74.153.192:36187] logged in with entity id 14646 at ([world]-8.5, 72.0, -243.5)
+[04:53:51] [Server thread/INFO]: GrPatrixYT issued server command: /tp xRoma47x GrPatrixYT
+[04:53:51] [Server thread/INFO]: [GrPatrixYT: Teleported xRoma47x to GrPatrixYT]
+[04:54:17] [Server thread/INFO]: xRoma47x has made the advancement [Cover Me with Diamonds]
+[04:54:40] [Server thread/INFO]: xRoma47x has made the advancement [Diamonds!]
+[04:56:48] [Server thread/INFO]: xRoma47x has made the advancement [Sweet Dreams]
+[04:56:52] [Server thread/INFO]: xRoma47x lost connection: Disconnected
+[04:56:52] [Server thread/INFO]: xRoma47x left the game
+[04:57:04] [User Authenticator #4/INFO]: UUID of player xRoma47x is 8944fc3b-cd50-39c1-a5ea-89e96f123b85
+[04:57:05] [TAB Processing Thread/INFO]: [TAB] [WARN] Player xRoma47x's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:57:05] [Server thread/INFO]: xRoma47x joined the game
+[04:57:05] [Server thread/INFO]: xRoma47x[/127.74.153.192:58895] logged in with entity id 17285 at ([world]-825.584735467993, 63.0, -1751.3955350911062)
+[04:58:54] [Server thread/INFO]: xRoma47x has made the advancement [Monster Hunter]
+[05:00:59] [Server thread/INFO]: SANS1237843 lost connection: Disconnected
+[05:00:59] [Server thread/INFO]: SANS1237843 left the game
