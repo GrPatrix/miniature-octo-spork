@@ -990,3 +990,37 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [23:01:57] [Server thread/INFO]: INKA2502 was blown up by Creeper
 [23:02:51] [Server thread/INFO]: xRoma47x has made the advancement [Ol' Betsy]
 [23:02:51] [Server thread/INFO]: xRoma47x has made the advancement [Take Aim]
+[23:05:01] [Server thread/WARN]: GrPatrixYT moved wrongly!
+[23:06:24] [Server thread/INFO]: INKA2502 has made the advancement [Ol' Betsy]
+[23:06:24] [Server thread/INFO]: INKA2502 has made the advancement [Take Aim]
+[23:06:29] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[23:06:29] [Server thread/INFO]: GrPatrixYT left the game
+[23:06:45] [Server thread/INFO]: Incorrect argument for command
+tp alipsi @e<--[HERE]
+[23:06:58] [Server thread/INFO]: Alipsi has completed the challenge [Hero of the Village]
+[23:06:58] [Server thread/INFO]: INKA2502 has completed the challenge [Hero of the Village]
+[23:06:58] [Server thread/INFO]: xRoma47x has completed the challenge [Hero of the Village]
+[23:07:02] [User Authenticator #9/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[23:07:03] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:07:03] [Server thread/INFO]: GrPatrixYT joined the game
+[23:07:03] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:43569] logged in with entity id 114486 at ([world]-1049.0614360645675, 72.0, -2075.699999988079)
+[23:07:10] [Server thread/INFO]: GrPatrixYT issued server command: /tp alipsi @e
+[23:07:22] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
+[23:07:22] [Server thread/INFO]: GrPatrixYT left the game
+[23:07:28] [Server thread/INFO]: Teleported 248 entities to Alipsi
+[23:07:28] [Server thread/INFO]: Villager Villager['Librarian'/107955, uuid='318491a8-8f68-4945-be8b-4e91f28fc7a1', l='ServerLevel[world]', x=-1070.99, y=72.92, z=-2136.47, cpos=[-67, -134], tl=545012, v=true] died, message: 'Librarian was squished too much'
+[23:07:30] [User Authenticator #9/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[23:07:31] [Server thread/INFO]: GrPatrixYT joined the game
+[23:07:31] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[23:07:31] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:34115] logged in with entity id 114669 at ([world]-1050.5338257108897, 73.0, -2079.2501739384365)
+[23:09:54] [Server thread/INFO]: Villager Villager['Librarian'/107957, uuid='e232ce05-596a-4942-80da-4bb6aa1b2659', l='ServerLevel[world]', x=-1076.16, y=70.00, z=-2138.09, cpos=[-68, -134], tl=354877, v=true] died, message: 'Librarian tried to swim in lava'
+[23:09:59] [Server thread/INFO]: xRoma47x has made the advancement [Isn't It Iron Pick]
+[23:10:06] [Server thread/INFO]: xRoma47x was slain by GrPatrixYT
+[23:10:10] [Server thread/INFO]: xRoma47x issued server command: /back
+[23:10:14] [Server thread/INFO]: [AngelChest] xRoma47x opened the AngelChest of xRoma47x at Location{world=CraftWorld{name=world},x=-1073.0,y=69.0,z=-2141.0,pitch=0.0,yaw=0.0}
+[23:11:34] [Server thread/INFO]: xRoma47x was slain by GrPatrixYT
+[23:11:39] [Server thread/INFO]: xRoma47x issued server command: /back
+[23:13:09] [Server thread/INFO]: INKA2502 lost connection: Disconnected
+[23:13:09] [Server thread/INFO]: INKA2502 left the game
+[23:13:49] [Server thread/INFO]: Alipsi lost connection: Disconnected
+[23:13:49] [Server thread/INFO]: Alipsi left the game
