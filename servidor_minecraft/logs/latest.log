@@ -1,450 +1,147 @@
-[00:01:01] [Server thread/INFO]: SANS1237843 lost connection: Timed out
-[00:01:01] [Server thread/INFO]: SANS1237843 left the game
-[00:01:04] [User Authenticator #21/INFO]: UUID of player SANS1237843 is 62fed0e1-ff38-36a6-8695-7c50b7f30215
-[00:01:05] [TAB Processing Thread/INFO]: [TAB] [WARN] Player SANS1237843's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:01:05] [Server thread/INFO]: SANS1237843 joined the game
-[00:01:05] [Server thread/INFO]: SANS1237843[/127.72.228.58:44869] logged in with entity id 142966 at ([world]-1102.7220641083486, 81.0, -2124.2283537526587)
-[00:03:37] [Server thread/INFO]: GrPatrixYT has reached the goal [Zombie Doctor]
-[00:04:50] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[00:19:37] [Server thread/INFO]: luispro110224 lost connection: Disconnected
-[00:19:37] [Server thread/INFO]: luispro110224 left the game
-[00:19:56] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
-[00:19:57] [Server thread/INFO]: GrPatrixYT left the game
-[00:20:02] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[00:23:20] [User Authenticator #22/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
-[00:23:21] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:23:21] [Server thread/INFO]: GrPatrixYT joined the game
-[00:23:21] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:44067] logged in with entity id 152150 at ([world]-828.4994028604375, 64.875, -1755.5975276020727)
-[00:23:30] [Server thread/INFO]: Alipsi issued server command: /tpahere Gr
-[00:23:30] [Server thread/ERROR]: Command exception: /tpahere Gr
-org.bukkit.command.CommandException: Unhandled exception executing command 'tpahere' in plugin SimpleTpa v7.4
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:355) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:342) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2241) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:154) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1577) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:207) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1547) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:138) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1498) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1508) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1344) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.api.ChatColor.Green
-	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
-	at net.md_5.bungee.api.ChatColor.valueOf(ChatColor.java:289) ~[bungeecord-chat-1.20-R0.2-deprecated+build.18.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.addButtonsMethod(SimpleTpaUtils.java:55) ~[SimpleTpa.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.sendTRequest(SimpleTpaUtils.java:125) ~[SimpleTpa.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.commands.TpaHereCommand.onCommand(TpaHereCommand.java:70) ~[SimpleTpa.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	... 27 more
-[00:23:47] [Server thread/INFO]: GrPatrixYT issued server command: /tpaccept
-[00:23:57] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
-[00:23:57] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
-[00:24:03] [Async Chat Thread - #20/INFO]: [Not Secure] <SANS1237843> TRABAJA
-[00:24:10] [Async Chat Thread - #20/INFO]: [Not Secure] <GrPatrixYT> estamos muy cerca a tierra :v
-[00:24:17] [Async Chat Thread - #20/INFO]: [Not Secure] <GrPatrixYT> tiene q ser oceano :v
-[00:24:25] [Async Chat Thread - #20/INFO]: [Not Secure] <Alipsi> no hay ocean ps
-[00:24:27] [Async Chat Thread - #20/INFO]: [Not Secure] <SANS1237843> vayase a la vrg
-[00:24:29] [Async Chat Thread - #20/INFO]: [Not Secure] <GrPatrixYT> deja busco
-[00:24:31] [Async Chat Thread - #20/INFO]: [Not Secure] <SANS1237843> aqui ta fino
-[00:24:33] [Async Chat Thread - #20/INFO]: [Not Secure] <Alipsi> entra a la call
-[00:24:41] [Async Chat Thread - #20/INFO]: [Not Secure] <GrPatrixYT> gringo me salio
-[00:24:48] [Async Chat Thread - #20/INFO]: [Not Secure] <GrPatrixYT> ando en llamada :v
-[00:24:57] [Async Chat Thread - #21/INFO]: [Not Secure] <SANS1237843> con anye verdad?
-[00:25:04] [Async Chat Thread - #21/INFO]: [Not Secure] <GrPatrixYT> quiza
-[00:25:15] [Async Chat Thread - #21/INFO]: [Not Secure] <GrPatrixYT> aca hay ocena csmrs ):v
-[00:25:22] [Server thread/INFO]: Alipsi issued server command: /tpa Gr
-[00:25:22] [Server thread/ERROR]: Command exception: /tpa Gr
-org.bukkit.command.CommandException: Unhandled exception executing command 'tpa' in plugin SimpleTpa v7.4
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:355) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:342) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2241) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:154) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1577) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:207) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1547) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:138) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1498) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1508) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1344) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.api.ChatColor.Green
-	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
-	at net.md_5.bungee.api.ChatColor.valueOf(ChatColor.java:289) ~[bungeecord-chat-1.20-R0.2-deprecated+build.18.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.addButtonsMethod(SimpleTpaUtils.java:55) ~[SimpleTpa.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.sendRequest(SimpleTpaUtils.java:98) ~[SimpleTpa.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.commands.TpaCommand.onCommand(TpaCommand.java:125) ~[SimpleTpa.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	... 27 more
-[00:25:27] [Async Chat Thread - #21/INFO]: [Not Secure] <SANS1237843> vayase a hablar con anye mrd
-[00:25:29] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
-[00:25:29] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
-[00:25:33] [Async Chat Thread - #21/INFO]: [Not Secure] <GrPatrixYT> tmr
-[00:25:36] [Async Chat Thread - #21/INFO]: [Not Secure] <Alipsi> donde
-[00:25:54] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
-[00:25:54] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
-[00:26:14] [Async Chat Thread - #21/INFO]: [Not Secure] <GrPatrixYT> aaqui ta bien
-[00:26:23] [Async Chat Thread - #21/INFO]: [Not Secure] <Alipsi> donde
-[00:26:40] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
-[00:26:40] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
-[00:26:55] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[00:32:24] [Server thread/INFO]: Alipsi issued server command: /back
-[00:37:35] [Server thread/INFO]: SANS1237843 issued server command: /tpahere Alipsi
-[00:37:35] [Server thread/ERROR]: Command exception: /tpahere Alipsi
-org.bukkit.command.CommandException: Unhandled exception executing command 'tpahere' in plugin SimpleTpa v7.4
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:355) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:342) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2241) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:154) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1577) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:207) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1547) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:138) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1498) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1508) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1344) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.api.ChatColor.Green
-	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
-	at net.md_5.bungee.api.ChatColor.valueOf(ChatColor.java:289) ~[bungeecord-chat-1.20-R0.2-deprecated+build.18.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.addButtonsMethod(SimpleTpaUtils.java:55) ~[SimpleTpa.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.sendTRequest(SimpleTpaUtils.java:125) ~[SimpleTpa.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.commands.TpaHereCommand.onCommand(TpaHereCommand.java:70) ~[SimpleTpa.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	... 27 more
-[00:37:41] [Server thread/INFO]: Alipsi issued server command: /tpaccept
-[00:37:48] [Server thread/INFO]: Alipsi issued server command: /tpauto
-[00:38:45] [Server thread/INFO]: SANS1237843 issued server command: /back
-[00:41:27] [Server thread/INFO]: SANS1237843 issued server command: /back
-[00:41:32] [Server thread/INFO]: SANS1237843 issued server command: /back
-[00:41:38] [Server thread/INFO]: SANS1237843 issued server command: /back
-[00:46:45] [Server thread/INFO]: SANS1237843 issued server command: /tpa GrPatrixYT
-[00:46:50] [Server thread/INFO]: SANS1237843 issued server command: /tpa GrPatrixYT
-[00:55:09] [Server thread/INFO]: Alipsi lost connection: Disconnected
-[00:55:09] [Server thread/INFO]: Alipsi left the game
-[00:55:22] [User Authenticator #23/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
-[00:55:23] [Server thread/INFO]: Alipsi joined the game
-[00:55:23] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:55:23] [Server thread/INFO]: Alipsi[/127.234.234.45:43383] logged in with entity id 164243 at ([world]-1277.699999988079, 62.42417253116749, -2893.7806506997995)
-[00:56:01] [Server thread/INFO]: Alipsi lost connection: Disconnected
-[00:56:01] [Server thread/INFO]: Alipsi left the game
-[00:56:02] [User Authenticator #23/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
-[00:56:03] [Server thread/INFO]: Alipsi joined the game
-[00:56:03] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[00:56:03] [Server thread/INFO]: Alipsi[/127.234.234.45:56571] logged in with entity id 164434 at ([world]-1285.9406337794521, 78.5, -2896.1113704883714)
-[00:59:11] [Server thread/INFO]: GrPatrixYT was slain by Guardian
-[00:59:17] [Server thread/INFO]: GrPatrixYT issued server command: /back
-[01:02:31] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
-[01:02:31] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
-[01:03:24] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
-[01:03:24] [Server thread/INFO]: GrPatrixYT left the game
-[01:04:03] [Server thread/INFO]: Alipsi fell from a high place
-[01:04:07] [Server thread/INFO]: Alipsi issued server command: /BACK
-[01:04:09] [Server thread/INFO]: Alipsi issued server command: /back
-[01:04:42] [Server thread/INFO]: Alipsi issued server command: /back
-[01:04:52] [Server thread/INFO]: Alipsi issued server command: /back
-[01:04:54] [Server thread/INFO]: Alipsi issued server command: /back
-[01:10:24] [User Authenticator #24/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
-[01:10:25] [Server thread/INFO]: GrPatrixYT joined the game
-[01:10:25] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[01:10:25] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:56021] logged in with entity id 170093 at ([world]-1279.0801243321878, 66.0, -2890.5295041998916)
-[01:10:38] [Server thread/INFO]: Alipsi issued server command: /back
-[01:10:51] [Server thread/INFO]: Alipsi issued server command: /back
-[01:11:15] [Server thread/INFO]: GrPatrixYT issued server command: /tpa SANS1237843
-[01:13:21] [Server thread/INFO]: SANS1237843 issued server command: /tpahere Alipsi
-[01:13:21] [Server thread/ERROR]: Command exception: /tpahere Alipsi
-org.bukkit.command.CommandException: Unhandled exception executing command 'tpahere' in plugin SimpleTpa v7.4
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:355) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:342) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2241) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:154) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1577) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:207) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1547) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:138) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1498) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1508) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1344) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.api.ChatColor.Green
-	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
-	at net.md_5.bungee.api.ChatColor.valueOf(ChatColor.java:289) ~[bungeecord-chat-1.20-R0.2-deprecated+build.18.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.addButtonsMethod(SimpleTpaUtils.java:55) ~[SimpleTpa.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.sendTRequest(SimpleTpaUtils.java:125) ~[SimpleTpa.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.commands.TpaHereCommand.onCommand(TpaHereCommand.java:70) ~[SimpleTpa.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	... 27 more
-[01:13:26] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[01:13:26] [Server thread/ERROR]: Command exception: /tpa Alipsi
-org.bukkit.command.CommandException: Unhandled exception executing command 'tpa' in plugin SimpleTpa v7.4
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:355) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:342) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2241) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:154) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1577) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:207) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1547) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:138) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1498) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1508) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1344) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.api.ChatColor.Green
-	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
-	at net.md_5.bungee.api.ChatColor.valueOf(ChatColor.java:289) ~[bungeecord-chat-1.20-R0.2-deprecated+build.18.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.addButtonsMethod(SimpleTpaUtils.java:55) ~[SimpleTpa.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.sendRequest(SimpleTpaUtils.java:98) ~[SimpleTpa.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.commands.TpaCommand.onCommand(TpaCommand.java:125) ~[SimpleTpa.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	... 27 more
-[01:13:32] [Server thread/INFO]: Alipsi issued server command: /tpaccept
-[01:16:02] [Server thread/INFO]: SANS1237843 issued server command: /back
-[01:16:17] [Server thread/INFO]: SANS1237843 issued server command: /back
-[01:20:26] [Server thread/INFO]: Alipsi fell from a high place
-[01:20:30] [Server thread/INFO]: Alipsi issued server command: /back
-[01:26:00] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[01:26:00] [Server thread/ERROR]: Command exception: /tpa Alipsi
-org.bukkit.command.CommandException: Unhandled exception executing command 'tpa' in plugin SimpleTpa v7.4
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:47) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	at io.papermc.paper.command.brigadier.bukkit.BukkitCommandNode$BukkitBrigCommand.run(BukkitCommandNode.java:82) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73) ~[brigadier-1.3.10.jar:?]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:31) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.tasks.ExecuteCommand.execute(ExecuteCommand.java:19) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.UnboundEntryAction.lambda$bind$0(UnboundEntryAction.java:8) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.CommandQueueEntry.execute(CommandQueueEntry.java:5) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.execution.ExecutionContext.runCommandQueue(ExecutionContext.java:103) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.executeCommandInContext(Commands.java:448) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:355) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:342) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.commands.Commands.performCommand(Commands.java:337) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.performUnsignedChatCommand(ServerGamePacketListenerImpl.java:2241) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleChatCommand$11(ServerGamePacketListenerImpl.java:2215) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:154) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1577) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:207) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:128) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1554) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1547) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:138) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1498) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1508) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1344) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:340) ~[paper-1.21.3.jar:1.21.3-63-4190ee7]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.api.ChatColor.Green
-	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:143) ~[guava-32.1.2-jre.jar:?]
-	at net.md_5.bungee.api.ChatColor.valueOf(ChatColor.java:289) ~[bungeecord-chat-1.20-R0.2-deprecated+build.18.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.addButtonsMethod(SimpleTpaUtils.java:55) ~[SimpleTpa.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.utils.SimpleTpaUtils.sendRequest(SimpleTpaUtils.java:98) ~[SimpleTpa.jar:?]
-	at SimpleTpa.jar/me.mulemuledupe.simpletpa.commands.TpaCommand.onCommand(TpaCommand.java:125) ~[SimpleTpa.jar:?]
-	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45) ~[paper-api-1.21.3-R0.1-SNAPSHOT.jar:?]
-	... 27 more
-[01:26:08] [Server thread/INFO]: Alipsi issued server command: /tpaccept
-[01:26:14] [Server thread/INFO]: Alipsi issued server command: /tpauto
-[01:29:19] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[01:36:21] [Server thread/INFO]: SANS1237843 fell from a high place
-[01:37:22] [Server thread/INFO]: SANS1237843 issued server command: /back
-[01:38:31] [Server thread/INFO]: SANS1237843 issued server command: /back
-[01:38:43] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[01:38:49] [Server thread/INFO]: SANS1237843 fell from a high place
-[01:38:57] [Server thread/INFO]: SANS1237843 issued server command: /back
-[01:39:05] [Server thread/INFO]: SANS1237843 issued server command: /back
-[01:39:23] [Server thread/INFO]: SANS1237843 issued server command: /back
-[01:39:33] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[01:41:33] [Server thread/INFO]: SANS1237843 fell from a high place
-[01:41:36] [Server thread/INFO]: SANS1237843 issued server command: /back
-[01:41:51] [Server thread/INFO]: SANS1237843 issued server command: /back
-[01:41:56] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[01:44:26] [Server thread/INFO]: Alipsi issued server command: /tpa s
-[01:48:47] [Server thread/INFO]: SANS1237843 fell from a high place
-[01:48:51] [Server thread/INFO]: SANS1237843 issued server command: /back
-[01:48:58] [Server thread/INFO]: SANS1237843 issued server command: /back
-[01:49:02] [Server thread/INFO]: SANS1237843 issued server command: /back
-[01:49:09] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[01:53:58] [Server thread/INFO]: SANS1237843 fell from a high place
-[01:54:01] [Server thread/INFO]: SANS1237843 issued server command: /back
-[01:54:09] [Server thread/INFO]: SANS1237843 issued server command: /back
-[01:54:12] [Server thread/INFO]: SANS1237843 issued server command: /back
-[01:54:16] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[02:09:38] [Server thread/INFO]: Alipsi issued server command: /tpa s
-[02:20:01] [Server thread/INFO]: Alipsi issued server command: /tpa s
-[02:22:25] [Server thread/INFO]: GrPatrixYT issued server command: /tp SANS1237843
-[02:22:25] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to SANS1237843]
-[02:22:47] [Server thread/INFO]: SANS1237843 issued server command: /back
-[02:26:06] [Server thread/WARN]: Alipsi moved too quickly! 1.163657838169911,-35.52689041546046,-4.971728129461098
-[02:27:23] [Server thread/INFO]: Alipsi issued server command: /tpa g
-[02:27:28] [Server thread/INFO]: Alipsi issued server command: /tpa g
-[02:27:31] [Async Chat Thread - #22/INFO]: [Not Secure] <Alipsi> q
-[02:27:35] [Server thread/INFO]: Alipsi issued server command: /tpa G
-[02:27:49] [Server thread/INFO]: Alipsi issued server command: /tpa Gr
-[02:28:29] [Server thread/INFO]: Alipsi issued server command: /tpa s
-[02:28:39] [Server thread/INFO]: Alipsi issued server command: /tpa Gr
-[02:28:44] [Server thread/INFO]: Alipsi issued server command: /tpa Gr
-[02:28:49] [Server thread/INFO]: Alipsi issued server command: /tpa Gr
-[02:28:50] [Server thread/INFO]: SANS1237843 issued server command: /back
-[02:28:57] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
-[02:28:57] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
-[02:29:02] [Server thread/INFO]: SANS1237843 issued server command: /back
-[02:29:45] [Server thread/INFO]: Alipsi was shot by Skeleton
-[02:29:58] [Server thread/INFO]: Alipsi issued server command: /back
-[02:30:18] [Server thread/INFO]: Alipsi issued server command: /tpa Gr
-[02:30:22] [Server thread/INFO]: Alipsi issued server command: /tpa s
-[02:30:32] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
-[02:30:32] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
-[02:30:44] [Server thread/INFO]: SANS1237843 issued server command: /back
-[02:31:19] [Server thread/INFO]: Alipsi fell from a high place
-[02:31:23] [Server thread/INFO]: Alipsi issued server command: /back
-[02:31:49] [Server thread/INFO]: SANS1237843 issued server command: /back
-[02:41:28] [Server thread/INFO]: Alipsi issued server command: /tpa s
-[02:41:36] [Server thread/INFO]: SANS1237843 issued server command: /back
-[02:41:43] [Server thread/INFO]: Alipsi issued server command: /tpa s
-[02:41:59] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[02:47:30] [Server thread/INFO]: SANS1237843 was doomed to fall
-[02:47:33] [Server thread/INFO]: SANS1237843 issued server command: /back
-[02:51:39] [Server thread/INFO]: SANS1237843 was doomed to fall by GrPatrixYT
-[02:51:42] [Server thread/INFO]: SANS1237843 issued server command: /back
-[02:51:49] [Server thread/INFO]: GrPatrixYT issued server command: /tp a
-[02:51:52] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
-[02:51:52] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
-[02:51:58] [Server thread/INFO]: SANS1237843 issued server command: /back
-[02:52:03] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[02:52:48] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[02:52:57] [Server thread/INFO]: Alipsi was doomed to fall
-[02:53:01] [Server thread/INFO]: Alipsi issued server command: /back
-[02:53:26] [Server thread/INFO]: SANS1237843 was doomed to fall by GrPatrixYT
-[02:53:29] [Server thread/INFO]: SANS1237843 issued server command: /back
-[02:53:39] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[02:53:42] [Server thread/INFO]: SANS1237843 issued server command: /back
-[02:53:47] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[02:54:57] [Server thread/INFO]: SANS1237843 issued server command: /back
-[02:55:06] [Server thread/INFO]: Alipsi issued server command: /tpa s
-[02:55:30] [Server thread/INFO]: SANS1237843 issued server command: /back
-[02:55:37] [Server thread/INFO]: Alipsi issued server command: /tpa G
-[02:55:44] [Server thread/INFO]: SANS1237843 issued server command: /back
-[02:55:48] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
-[02:55:48] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
-[02:55:59] [Server thread/INFO]: SANS1237843 issued server command: /tpa GrPatrixYT
-[02:57:03] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[02:59:33] [Server thread/INFO]: GrPatrixYT lost connection: Disconnected
-[02:59:33] [Server thread/INFO]: GrPatrixYT left the game
-[03:01:40] [Server thread/INFO]: SANS1237843 issued server command: /skill
-[03:20:57] [User Authenticator #25/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
-[03:20:59] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[03:20:59] [Server thread/INFO]: GrPatrixYT joined the game
-[03:20:59] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:42569] logged in with entity id 212226 at ([world]-1286.0710874411016, 120.0, -2894.4956874215154)
-[03:23:56] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
-[03:23:56] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
-[03:28:39] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
-[03:28:39] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
-[03:29:07] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi GrPatrixYT
-[03:29:07] [Server thread/INFO]: [GrPatrixYT: Teleported Alipsi to GrPatrixYT]
-[03:41:22] [Server thread/INFO]: Alipsi lost connection: Disconnected
-[03:41:22] [Server thread/INFO]: Alipsi left the game
-[03:43:23] [User Authenticator #26/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
-[03:43:24] [Server thread/INFO]: Alipsi joined the game
-[03:43:24] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[03:43:24] [Server thread/INFO]: Alipsi[/127.234.234.45:51989] logged in with entity id 216015 at ([world]-1281.4241574171976, 64.875, -2892.748055141223)
-[03:44:20] [Server thread/INFO]: GrPatrixYT issued server command: /tp SANS1237843 GrPatrixYT
-[03:44:20] [Server thread/INFO]: [GrPatrixYT: Teleported SANS1237843 to GrPatrixYT]
-[03:47:17] [Server thread/INFO]: GrPatrixYT drowned while trying to escape Drowned
-[03:47:20] [Server thread/INFO]: Alipsi lost connection: Timed out
-[03:47:20] [Server thread/INFO]: Alipsi left the game
-[03:47:24] [Server thread/INFO]: GrPatrixYT issued server command: /back
-[03:48:24] [User Authenticator #27/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
-[03:48:25] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
-[03:48:25] [Server thread/INFO]: Alipsi joined the game
-[03:48:25] [Server thread/INFO]: Alipsi[/127.234.234.45:59169] logged in with entity id 220088 at ([world]-1306.7669328504228, 123.0, -2893.4232326950655)
-[04:00:08] [Server thread/INFO]: GrPatrixYT issued server command: /tpa SANS1237843 SANS1237843
-[04:00:18] [Server thread/INFO]: GrPatrixYT issued server command: /back
-[04:02:32] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[04:05:25] [Async Chat Thread - #24/INFO]: [Not Secure] <Alipsi> ./kill SANS
-[04:05:29] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[04:05:36] [Server thread/INFO]: GrPatrixYT issued server command: /kill sans
-[04:05:42] [Server thread/INFO]: GrPatrixYT issued server command: /kill SANS1237843
-[04:05:42] [Server thread/INFO]: SANS1237843 was killed
-[04:05:42] [Server thread/INFO]: [GrPatrixYT: Killed SANS1237843]
-[04:05:47] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
-[04:06:28] [Server thread/INFO]: SANS1237843 issued server command: /back
+[04:21:02] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.5+11-Ubuntu-1ubuntu120.04; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[04:21:02] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[04:21:02] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[04:21:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 7 plugins
+[04:21:03] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (7):
+ - AngelChest (13.9.0), AuraSkills (2.2.7), ClearLag (3.2.2), RHLeafDecay (1.21_R1), SimpleTpa (7.4), SkinsRestorer (15.5.1), TAB (5.0.3)
+[04:21:09] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:21:12] [ServerMain/INFO]: Loaded 1337 recipes
+[04:21:12] [ServerMain/INFO]: Loaded 1448 advancements
+[04:21:12] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[04:21:12] [Server thread/INFO]: Loading properties
+[04:21:12] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[04:21:13] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[04:21:13] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:21:13] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:21:14] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[04:21:14] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[04:21:15] [Server thread/INFO]: Default game type: SURVIVAL
+[04:21:15] [Server thread/INFO]: Generating keypair
+[04:21:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:21:15] [Server thread/INFO]: Using epoll channel type
+[04:21:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[04:21:15] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[04:21:15] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[04:21:15] [Server thread/INFO]: [AngelChest] Loading server plugin AngelChest v13.9.0
+[04:21:15] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[04:21:15] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.4
+[04:21:15] [Server thread/INFO]: [TAB] Loading server plugin TAB v5.0.3
+[04:21:15] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.2.7
+[04:21:15] [Server thread/INFO]: [RHLeafDecay] Loading server plugin RHLeafDecay v1.21_R1
+[04:21:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:21:15] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[04:21:17] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[04:21:18] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[04:21:18] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[04:21:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:21:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:21:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:21:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:21:19] [Server thread/INFO]: Preparing level "world"
+[04:21:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:21:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:21:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[04:21:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[04:21:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[04:21:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[04:21:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:21:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[04:21:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[04:21:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[04:21:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[04:21:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[04:21:19] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[04:21:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:21:20] [Server thread/INFO]: Preparing spawn area: 0%
+[04:21:20] [Server thread/INFO]: Preparing spawn area: 2%
+[04:21:20] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[04:21:20] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 362.7ms
+[04:21:20] [Server thread/INFO]: Preparing spawn area: 2%
+[04:21:21] [Server thread/INFO]: Preparing spawn area: 40%
+[04:21:21] [Server thread/INFO]: Time elapsed: 1664 ms
+[04:21:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[04:21:21] [Server thread/INFO]: Preparing spawn area: 0%
+[04:21:22] [Server thread/INFO]: Time elapsed: 432 ms
+[04:21:22] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[04:21:22] [Server thread/INFO]: Preparing spawn area: 0%
+[04:21:22] [Server thread/INFO]: Time elapsed: 239 ms
+[04:21:22] [Server thread/INFO]: [AngelChest] Enabling AngelChest v13.9.0
+[04:21:23] [Server thread/INFO]: [AngelChest] groups.yml does not exist, skipping custom group settings.
+[04:21:23] [Server thread/INFO]: [AngelChest] blacklist.yml does not exist, disabling item blacklist.
+[04:21:23] [Server thread/INFO]: [AngelChest] Not using premium version, disabling Graveyards feature
+[04:21:23] [Server thread/WARN]: [AngelChest] Could not add usage/description to command acopen
+[04:21:23] [Server thread/INFO]: [AngelChest] Vault not installed, disabling economy functions.
+[04:21:23] [Server thread/INFO]: [AngelChest] [ACF] Enabled Asynchronous Tab Completion Support!
+[04:21:23] [Server thread/INFO]: [AngelChest] Successfully enabled AngelChest v13.9.0 (Premium: false)
+[04:21:23] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[04:21:23] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[04:21:23] [Server thread/INFO]: [ClearLag] Loading modules...
+[04:21:23] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[04:21:23] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[04:21:23] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[04:21:23] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[04:21:23] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.4
+[04:21:23] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[04:21:23] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.4
+[04:21:23] [Thread-11/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[04:21:23] [Thread-11/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[04:21:23] [Thread-11/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[04:21:23] [Thread-11/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[04:21:23] [Thread-11/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[04:21:23] [Thread-11/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[04:21:23] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[04:21:23] [Server thread/INFO]: [TAB] Enabling TAB v5.0.3
+[04:21:23] [Server thread/INFO]: [TAB] Loaded NMS hook in 95ms
+[04:21:24] [Server thread/INFO]: [TAB] Enabled in 357ms
+[04:21:24] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.2.7
+[04:21:25] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[04:21:25] [Server thread/INFO]: [AuraSkills] Loaded 151 config options in 21 ms
+[04:21:25] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.3! Trying to find NMS support
+[04:21:25] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R2' loaded!
+[04:21:25] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[04:21:26] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[04:21:26] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[04:21:26] [Server thread/INFO]: [RHLeafDecay] Enabling RHLeafDecay v1.21_R1
+[04:21:26] [Server thread/INFO]: [RHLeafDecay] The plugin has been loaded!
+[04:21:26] [Server thread/INFO]: [RHLeafDecay] You are using version 1.21_R1 /w 💕 by X0R3
+[04:21:26] [Server thread/INFO]: [RHLeafDecay] Info:
+[04:21:26] [Server thread/INFO]: [RHLeafDecay] If you want your server be presented on the plugin page, then please contact me! :)
+[04:21:26] [Server thread/INFO]: [spark] Starting background profiler...
+[04:21:27] [Server thread/INFO]: Done preparing level "world" (8.272s)
+[04:21:27] [Server thread/INFO]: Running delayed init tasks
+[04:21:27] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 315 total sources
+[04:21:28] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[04:21:28] [Server thread/INFO]: [AuraSkills] Loaded 22 pattern rewards and 0 level rewards
+[04:21:28] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[04:21:28] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:21:28] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[04:21:28] [Server thread/INFO]: Done (27.525s)! For help, type "help"
+[04:21:30] [Server thread/INFO]: [AngelChest] ========================================================
+[04:21:30] [Server thread/INFO]: [AngelChest] You are using the free version of AngelChest. There is
+[04:21:30] [Server thread/INFO]: [AngelChest] also a premium version available, called AngelChestPlus.
+[04:21:30] [Server thread/INFO]: [AngelChest] It includes TONS of new features and exclusive Discord
+[04:21:30] [Server thread/INFO]: [AngelChest] support. The free version will still receive bugfixes,
+[04:21:30] [Server thread/INFO]: [AngelChest] but there won't be ANY new features!
+[04:21:30] [Server thread/INFO]: [AngelChest] If you like AngelChest, you will LOVE AngelChestPlus, so
+[04:21:30] [Server thread/INFO]: [AngelChest] please consider upgrading! Thank you for using AngelChest.
+[04:21:30] [Server thread/INFO]: [AngelChest] 
+[04:21:30] [Server thread/INFO]: [AngelChest] https://www.spigotmc.org/resources/88214
+[04:21:30] [Server thread/INFO]: [AngelChest] ========================================================
+[04:21:36] [User Authenticator #1/INFO]: UUID of player Alipsi is 56dd22a1-49a0-3f2d-94e4-9aba34f420dc
+[04:21:36] [User Authenticator #0/INFO]: UUID of player GrPatrixYT is ad57eae9-e0fd-3a99-a7cd-f9ead952a15b
+[04:21:37] [Server thread/INFO]: GrPatrixYT joined the game
+[04:21:37] [TAB Processing Thread/INFO]: [TAB] [WARN] Player GrPatrixYT's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:21:37] [Server thread/INFO]: GrPatrixYT[/127.9.59.171:50225] logged in with entity id 5 at ([world]-816.0212179970197, 68.0, -1753.8943363398243)
+[04:21:37] [Server thread/INFO]: Alipsi joined the game
+[04:21:37] [TAB Processing Thread/INFO]: [TAB] [WARN] Player Alipsi's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:21:37] [Server thread/INFO]: Alipsi[/127.234.234.45:36511] logged in with entity id 6 at ([world]-1096.6245946047118, 85.0, -2112.8698066385364)
+[04:21:38] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0b6df83d-8f71-4f69-838c-a5ebc91a5fda, mapped to Bat['Bat'/81, uuid='0b6df83d-8f71-4f69-838c-a5ebc91a5fda', l='ServerLevel[world]', x=-831.93, y=13.14, z=-1683.69, cpos=[-52, -106], tl=793, v=true], can't add Bat['Bat'/92, uuid='0b6df83d-8f71-4f69-838c-a5ebc91a5fda', l='ServerLevel[world]', x=-832.66, y=12.31, z=-1685.37, cpos=[-53, -106], tl=804, v=false]
+[04:21:38] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 90960b16-4e64-4f15-81aa-4f5cc003c3b9, mapped to Bat['Bat'/107, uuid='90960b16-4e64-4f15-81aa-4f5cc003c3b9', l='ServerLevel[world]', x=-879.89, y=1.54, z=-1806.55, cpos=[-55, -113], tl=153, v=true], can't add Bat['Bat'/123, uuid='90960b16-4e64-4f15-81aa-4f5cc003c3b9', l='ServerLevel[world]', x=-882.57, y=3.77, z=-1803.07, cpos=[-56, -113], tl=191, v=false]
+[04:21:41] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 513b627c-98d7-44e0-ac8a-bb513f27d3c8, mapped to Sheep['Sheep'/424, uuid='513b627c-98d7-44e0-ac8a-bb513f27d3c8', l='ServerLevel[world]', x=-1007.84, y=69.00, z=-1797.77, cpos=[-63, -113], tl=25769, v=true], can't add Sheep['Sheep'/453, uuid='513b627c-98d7-44e0-ac8a-bb513f27d3c8', l='ServerLevel[world]', x=-1011.83, y=68.00, z=-1801.84, cpos=[-64, -113], tl=25598, v=false]
+[04:21:43] [User Authenticator #0/INFO]: UUID of player SANS1237843 is 62fed0e1-ff38-36a6-8695-7c50b7f30215
+[04:21:44] [TAB Processing Thread/INFO]: [TAB] [WARN] Player SANS1237843's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[04:21:44] [Server thread/INFO]: SANS1237843 joined the game
+[04:21:44] [Server thread/INFO]: SANS1237843[/127.72.228.58:57547] logged in with entity id 534 at ([world]-1097.5625717699872, 85.0, -2117.31659380314)
+[04:28:24] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
+[04:28:24] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
+[04:28:29] [Server thread/INFO]: GrPatrixYT issued server command: /back
