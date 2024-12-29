@@ -382,3 +382,12 @@ Caused by: java.lang.IllegalArgumentException: No enum constant net.md_5.bungee.
 [02:41:36] [Server thread/INFO]: SANS1237843 issued server command: /back
 [02:41:43] [Server thread/INFO]: Alipsi issued server command: /tpa s
 [02:41:59] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
+[02:47:30] [Server thread/INFO]: SANS1237843 was doomed to fall
+[02:47:33] [Server thread/INFO]: SANS1237843 issued server command: /back
+[02:51:39] [Server thread/INFO]: SANS1237843 was doomed to fall by GrPatrixYT
+[02:51:42] [Server thread/INFO]: SANS1237843 issued server command: /back
+[02:51:49] [Server thread/INFO]: GrPatrixYT issued server command: /tp a
+[02:51:52] [Server thread/INFO]: GrPatrixYT issued server command: /tp Alipsi
+[02:51:52] [Server thread/INFO]: [GrPatrixYT: Teleported GrPatrixYT to Alipsi]
+[02:51:58] [Server thread/INFO]: SANS1237843 issued server command: /back
+[02:52:03] [Server thread/INFO]: SANS1237843 issued server command: /tpa Alipsi
